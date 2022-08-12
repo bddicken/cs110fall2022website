@@ -1,0 +1,10 @@
+what keyword can you use to delete elements from a dictionary in python?|||del
+what method is used to add values to the end of a list?|||append
+true or false: for loops are better than while loops.|||false
+true or false: you can have duplicate keys in a dictionary|||false
+the two major types of loops in python are for loops and _____ loops.|||while
+The type _____ can be used to store numbers with decimal places.|||float
+What symbols is used for multiplication in python?|||*
+What symbols is used for string concatenation in python?|||+
+What function can be used to get a string from a user in Python?|||input
+What module has been used in this class for graphics?|||graphics

@@ -1,0 +1,4 @@
+face 150 150
+crazy 350 150
+face 150 350
+crazy 350 350

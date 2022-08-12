@@ -1,0 +1,16 @@
+crazy 100 300
+face 100 400
+face 250 250
+face 300 300
+face 200 200
+crazy 300 200
+crazy 200 300
+crazy 100 450
+face 450 450
+face 450 100
+crazy 400 400
+face 320 320
+face 250 100
+face 300 130
+crazy 10 50
+face 275 475
