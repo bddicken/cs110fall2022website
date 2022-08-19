@@ -40,7 +40,7 @@ Video content will be made available for those that have to miss a class.
 
 ## Instructors and TAs
 
-* 2pm Instructor: **Adriana Picoral**, adrianaps@arizona.edu, GS ?
+* 2pm Instructor: **Adriana Picoral**, adrianaps@arizona.edu, GS 829
 * 1pm Instructor: **Benjamin Dicken**, bddicken@arizona.edu, GS 850
 * Instructor office hours: See the office hours page
 * [Click here for a list of the teaching assistants!](./tas/)
