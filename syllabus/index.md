@@ -31,10 +31,15 @@ The prerequisite is a C or better in College Algebra or CSc 101 or appropriate m
 
 ### Instructor & Teaching Staff
 
-* **Instructor of Record:** Benjamin Dicken
-* **Office:** Gould-Simpson 850 (note: some office hours may be online)
-* **Email:** bddicken@email.arizona.edu
-* **Instructor Site:** benjdd.com
+* **Instructors of Record:** 
+  * Benjamin Dicken
+    * **Office:** Gould-Simpson 850 (note: some office hours may be online)
+    * **Email:** bddicken@email.arizona.edu
+    * **Instructor Site:** benjdd.com
+  * Adriana Picoral
+    *  **Office:** Gould-Simpson 829
+    *  **Email:** adrianaps@arizona.edu
+    *  **Instructor Site:** adrianapicoral.com
 
 There will also be many undergraduate TAs.
 See the class website for their contact info!
