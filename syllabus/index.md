@@ -27,7 +27,7 @@ If you need an exception due to a medical or visa issue, please reach out to the
 
 ### Prerequisites
 
-The prerequisite is a C or better in College Algebra or CSc 101.
+The prerequisite is a C or better in College Algebra or CSc 101 or appropriate math placement score.
 
 ### Instructor & Teaching Staff
 
