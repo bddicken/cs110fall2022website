@@ -1,5 +1,5 @@
-title: Benjamin Dicken
-email: bddicken AT gmail DOT com
+title: 110 Website
+email: email
 description: > # this means to ignore newlines until "baseurl:"
   # Personal website for Benjamin Dicken.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -22,3 +22,4 @@ exclude:
 
 permalink: none
 
+exclude: [vendor]
