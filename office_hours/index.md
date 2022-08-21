@@ -24,7 +24,7 @@ Click on the name of the TA to join the online zoom meeting.
 In-person one are indicated with regular black text.
 
 In-person office hours for the TAs will meet in Gould-Simpson 837 in the TA office hour room.
-Adriana's will typically meet in GS ??.
+Adriana's will typically meet in GS 829.
 Ben's will typically meet in GS 850.
 
 
