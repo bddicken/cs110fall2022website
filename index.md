@@ -56,7 +56,7 @@ Video content will be made available for those that have to miss a class.
 ## Getting Help
 
 | [Office Hours Schedule](./office_hours/) | Chat with the Instructor, TA, and classmates! |
-| [Online Tutoting](https://www.cs.arizona.edu/undergraduate/student-support/tutoring) | Free tutoring provided by the CS department |
+| [Online Tutoring](https://www.cs.arizona.edu/undergraduate/student-support/tutoring) | Free tutoring provided by the CS department |
 
 ## Course Tool Links
 
