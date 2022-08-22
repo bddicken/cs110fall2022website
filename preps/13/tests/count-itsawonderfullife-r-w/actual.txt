@@ -1,0 +1,1 @@
+'r' and 'w' appeared 2 times in the string 'its a wonderful life'

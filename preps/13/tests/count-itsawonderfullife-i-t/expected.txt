@@ -1,0 +1,1 @@
+'i' and 't' appeared 3 times in the string 'its a wonderful life'

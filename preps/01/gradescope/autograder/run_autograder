@@ -1,0 +1,5 @@
+#!/bin/bash
+
+AG=/autograder/
+python3 ${AG}/source/teffer/teffer.py -t ${AG}/source/tests -s ${AG}/submission/ -f gradescope -m test -o ${AG}/results/results.json
+

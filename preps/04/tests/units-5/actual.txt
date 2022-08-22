@@ -1,0 +1,5 @@
+Number of feet:
+
+Inches: 60
+Meter: 1.524
+Rods: 0.3

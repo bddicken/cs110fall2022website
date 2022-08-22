@@ -1,0 +1,4 @@
+paper 10
+oprang 10
+cheese 20
+steak 10

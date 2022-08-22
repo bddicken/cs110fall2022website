@@ -1,0 +1,9 @@
+Rectangle width:
+Rectangle height:
+
+#######
+#######
+#######
+#######
+#######
+

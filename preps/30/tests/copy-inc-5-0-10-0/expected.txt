@@ -1,0 +1,2 @@
+List passed into function:      [5, 0, 10, 0]
+List returned by function call: [6, 1, 11, 1]

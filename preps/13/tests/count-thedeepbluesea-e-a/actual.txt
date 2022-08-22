@@ -1,0 +1,1 @@
+'e' and 'a' appeared 6 times in the string 'the deep blue sea'

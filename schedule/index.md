@@ -52,11 +52,13 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     8/24/2022 <br/>
     <b>Topic:</b> Strings, printing, user input <br/>
     <b>Prep:</b> <a href="https://docs.google.com/presentation/d/1g-HyrEVuTBycLJvwl0QEepgq1gbjBAGhz8cq49ZA-rA/edit?usp=sharing">Workspace setup instructions</a> and SOWP 1.1-1.5 <br/>
+    <a href="../preps/01/"><b>Prep Problem 1</b></a>
   </td>
   <td class="topic-general">
     8/26/2022 <br/>
     <b>Topic:</b> Numeric and values and variables, string multiplication <br/>
     <b>Prep:</b> SOWP 2.1-2.4 <br/>
+    <a href="../preps/02/"><b>Prep Problem 2</b></a>
   </td>
   <td class="">
     <b>Topic:</b> TBA
@@ -74,6 +76,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     8/29/2022 <br/>
     <b>Topic:</b> Basic mathematics, controlling data output <br/>
     <b>Prep:</b> SOWP 2.5-2.6 <br/>
+    <a href="../preps/03/"><b>Prep Problem 3</b></a>
   </td>
   <td class="topic-general">
     8/31/2022 <br/>

@@ -1,0 +1,4 @@
+clothes
+keys
+laptop
+mints

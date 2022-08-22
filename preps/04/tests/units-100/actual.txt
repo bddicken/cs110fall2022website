@@ -1,0 +1,5 @@
+Number of feet:
+
+Inches: 1200
+Meter: 30.48
+Rods: 6.1

@@ -1,0 +1,7 @@
+paper-towels 0
+spas 2
+batteries 50
+couches 3
+orange 5
+lamp 10
+televisions 5

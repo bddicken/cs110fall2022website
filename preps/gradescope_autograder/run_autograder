@@ -1,0 +1,12 @@
+#!/bin/bash
+
+### Get the tests
+ID=37
+pushd /autograder/source/
+wget http://benjdd.com/courses/cs110/summer-2022/preps/${ID}/tests.zip
+unzip tests.zip
+popd
+
+AG=/autograder/
+python3 ${AG}/source/teffer/teffer.py -t ${AG}/source/tests -s ${AG}/submission/ -f gradescope -m test -o ${AG}/results/results.json
+
