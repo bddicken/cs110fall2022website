@@ -8,8 +8,7 @@ title: CSc 110 PAs
 <br/>
 
 
-## Week 1
-### TBA
+## Week 1: [Madlibs](./madlins/index.html)
 
 <br />
 
