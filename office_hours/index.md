@@ -18,31 +18,28 @@ a {
 
 
 Shown below is the office hours schedule.
-Office hours for this course will be a mix of in-person and online.
-Online office hours are indicated with light green backgrounds.
-Click on the name of the TA to join the online zoom meeting.
-In-person one are indicated with regular black text.
+The in-person office hours are hosted in Gould-Simpson 837.
+An (O) next to a name indicates that the office hour is online.
+For these office hours, log in to the class discord server, put your name in the #office-hours text channel, and join the #office-hour voice channel.
 
-In-person office hours for the TAs will meet in Gould-Simpson 837 in the TA office hour room.
 Adriana's will typically meet in GS 829.
 Ben's will typically meet in GS 850.
 
-
 | Time | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |---|---|---|---|---|---|
-| 8:00am - 9:00am   | | | | | | | |
-| 9:00am - 10:00am  | | | | | | | |
-| 10:00am - 11:00am | | Ben | | | | | |
-| 11:00am - 12:00pm | Ben | | Ben | | | |  |
-| 12:00pm - 1:00pm  | | | | Ben | | | |
-| 1:00pm - 2:00pm   | CLASS | | CLASS | | CLASS | | |
-| 2:00pm - 3:00pm   | CLASS | | CLASS | | CLASS | | |
-| 3:00pm - 4:00pm   | | | | | | | |
-| 4:00pm - 5:00pm   | | | | | | | |
-| 5:00pm - 6:00pm   | | | | | | | |
-| 6:00pm - 7:00pm   | | | | | | | |
+| 8:00am - 9:00am   | | Ali E. | | | | | |
+| 9:00am - 10:00am  | Anthony (O) | Ali E. / Jeziel (O) | Anthony (O) | Anthony (O) | | Mustafa | Ali E. |
+| 10:00am - 11:00am | Honor (O) / Ali K. (O) / Jaygee | Ben / Jeziel (O) | Ali K. (O) / Jaygee | Miro | Ali K. (O) | Mustafa | Kari / Ali E. |
+| 11:00am - 12:00pm | Honor (O) / Ali K. (O) / Ben | Honor (O) / Jeziel (O) / Aidan | Cezar / Ali K. (O)  / Alankrit / Ben | Miro / Adan (O) | Ali K. (O) | Alankrit | Kari |
+| 12:00pm - 1:00pm  | Zach | | Cezar / Alankrit / Ben | Miro | Aidan / Zach | Alankrit | | 
+| 1:00pm - 2:00pm   | CLASS | Anthony / Steven | CLASS | Steven | CLASS | | |
+| 2:00pm - 3:00pm   | CLASS | | CLASS | Zach | CLASS | | |
+| 3:00pm - 4:00pm   | Victoria / Ackbar / Nuzhat | Aidan / Brooke (O) | Nuzhat / Sam | Aidan / Zach | Victoria / Ackbar | | |
+| 4:00pm - 5:00pm   | Victoria / Alankrit (O) | Rachel / Ackbar / Kari | Brooke / Sam | Rachel / Miro | Rachek / Ackbar | | |
+| 5:00pm - 6:00pm   | Michael / Alankrit (O) | Kari / Jake / Michael | Michael | Miro / Alex (O) / Jake | | | |
+| 6:00pm - 7:00pm   | Adan (O) | Kari / Michael / Jake | Adan (O) | Alex (R) / Jake | | | |
 
 NOTE: This office hour schedule is subject to some change.
 Occasionally a TA might have to cancel or change one or more office hour(s).
-If you attend one and the TA is not there, please check piazza for any updates.
+If you attend one and the TA is not there, please check the Discord for any updates.
 
