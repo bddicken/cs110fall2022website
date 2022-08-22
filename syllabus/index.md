@@ -310,13 +310,15 @@ Student Assistance and Advocacy information is available at [http://deanofstuden
 
 ### Obtaining Help
 
-Academic advising: If you have questions about your academic progress this semester, or your chosen degree program, consider contacting your department’s academic advisor(s).  Your academic advisor and the Advising Resource Center can guide you toward university resources to help you succeed. Computer Science major students are encouraged to email advising@cs.arizona.edu for academic advising related questions.
+* Academic advising: If you have questions about your academic progress this semester, or your chosen degree program, consider contacting your department’s academic advisor(s).  Your academic advisor and the Advising Resource Center can guide you toward university resources to help you succeed. Computer Science major students are encouraged to email advising@cs.arizona.edu for academic advising related questions.
 
-CS Tutor Center: The Department of Computer Science offers FREE tutoring for students enrolled in CSC courses. You can view tutor schedules and sign up for tutoring sessions by visit our CS Tutoring Page. [NOTE: Tutor Center is closed in Summer; delete this for summer courses]
+* CS Tutor Center: The Department of Computer Science offers FREE tutoring for students enrolled in CSC courses. You can view tutor schedules and sign up for tutoring sessions by visit our CS Tutoring Page.
 
-Life challenges: If you are experiencing unexpected barriers to your success in your courses, please note the Dean of Students Office is a central support resource for all students and may be helpful. The Dean of Students Office can be reached at 520-621-2057 or DOS-deanofstudents@email.arizona.edu.
+* Life challenges: If you are experiencing unexpected barriers to your success in your courses, please note the Dean of Students Office is a central support resource for all students and may be helpful. The Dean of Students Office can be reached at 520-621-2057 or DOS-deanofstudents@email.arizona.edu.
 
-Physical and mental-health challenges: If you are facing physical or mental health challenges this semester, please note that Campus Health provides quality medical and mental health care. For medical appointments, call (520-621-9202. For After Hours care, call (520) 570-7898. For the Counseling & Psych Services (CAPS) 24/7 hotline, call (520) 621-3334.
+* Physical and mental-health challenges: If you are facing physical or mental health challenges this semester, please note that Campus Health provides quality medical and mental health care. For medical appointments, call (520-621-9202. For After Hours care, call (520) 570-7898. For the Counseling & Psych Services (CAPS) 24/7 hotline, call (520) 621-3334.
+
+* CS Help Desk: The Computer Science IT team can help students with department technology issues including logging into/resetting your Lectura account, printing in the 930 lab, etc. You can submit a ticket for help by visiting the Computer Science Lab Helpdesk (note, requires UA login).  
 
 ### Incomplete (I) or Withdrawal (W):
 
