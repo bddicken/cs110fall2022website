@@ -47,7 +47,7 @@ The best way to talk with a particular TA is via office hours, so check the sche
 | <img src="../images/badkins.jpg" class="taimg" /> | Brooke Adkins | bpacheco1@arizona.edu |
 | <img src="../images/dog.png" class="taimg" /> | Adan Baca | adanbaca@arizona.edu |
 | <img src="../images/dog.png" class="taimg" /> | Jeziel Gonzalez | jezielbgon@arizona.edu |
-| <img src="../images/dog.png" class="taimg" /> | Zachary Nicholsi | izjnicolosi@arizona.edu |
+| <img src="../images/dog.png" class="taimg" /> | Zachary Nicholsi | zjnicolosi@arizona.edu |
 | <img src="../images/dog.png" class="taimg" /> | Aidan Linder | jlinder@arizona.edu |
 | <img src="../images/dog.png" class="taimg" /> | Alankrit Moses | ajmoses@arizona.edu |
 
