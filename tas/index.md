@@ -30,14 +30,15 @@ The best way to talk with a particular TA is via office hours, so check the sche
 | <img src="../images/asafayan.png" class="taimg" />  | Alex Safayan | alexsafayan@arizona.edu | 
 | <img src="../images/dog.png" class="taimg" /> | Mustafa Alnidawi | mustafaa1@arizona.edu |
 | <img src="../images/jbode.jpeg" class="taimg" /> | Jake Bode | bode1@arizona.edu |
-| <img src="../images/struong.jpg" class="taimg" /> | Steven Truong | steven08truong@arizona.edu |
 | <img src="../images/dog.png" class="taimg" /> | Cezar Rata | cezarr@arizona.edu |
 | <img src="../images/rwhitaker.jpg" class="taimg" /> | Rachel Whitaker  | rmlwhitaker@arizona.edu |
 | <img src="../images/vsantos.jpg" class="taimg" /> | Victoria Santos | santosv@arizona.edu |
+| <img src="../images/dog.png" class="taimg" /> | Alankrit Moses | ajmoses@arizona.edu |
 
 ## TAs for 2pm
 
 | Photo | Name | Email |
+| <img src="../images/struong.jpg" class="taimg" /> | Steven Truong | steven08truong@arizona.edu |
 | <img src="../images/akhan.jpg" class="taimg" /> | Ali Khan | askhan1@arizona.edu | 
 | <img src="../images/mfarabi.jpg" class="taimg" />  | Muhtasim Farabi | muhtasimalfarabi@arizona.edu | 
 | <img src="../images/nmastura.jpg" class="taimg" />  | Nuzhat Mastura | mastura@arizona.edu |
@@ -49,5 +50,4 @@ The best way to talk with a particular TA is via office hours, so check the sche
 | <img src="../images/dog.png" class="taimg" /> | Jeziel Gonzalez | jezielbgon@arizona.edu |
 | <img src="../images/dog.png" class="taimg" /> | Zachary Nicholsi | zjnicolosi@arizona.edu |
 | <img src="../images/dog.png" class="taimg" /> | Aidan Linder | jlinder@arizona.edu |
-| <img src="../images/dog.png" class="taimg" /> | Alankrit Moses | ajmoses@arizona.edu |
 
