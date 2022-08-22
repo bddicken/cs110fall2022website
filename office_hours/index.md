@@ -28,19 +28,19 @@ Adriana's will typically meet in GS 829.
 Ben's will typically meet in GS 850.
 
 
-| Time | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+| Time | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |---|---|---|---|---|---|
-| 8:00am - 9:00am   | | | | | | |
-| 9:00am - 10:00am  | | | | | | |
-| 10:00am - 11:00am | | | | | | |
-| 11:00am - 12:00pm | | | | | | | 
-| 12:00pm - 1:00pm  | | | | | | |
-| 1:00pm - 2:00pm   | CLASS | | CLASS | | CLASS | |
-| 2:00pm - 3:00pm   | CLASS | | CLASS | | CLASS | |
-| 3:00pm - 4:00pm   | | | | | | |
-| 4:00pm - 5:00pm   | | | | | | |
-| 5:00pm - 6:00pm   | | | | | | |
-| 6:00pm - 7:00pm   | | | | | | |
+| 8:00am - 9:00am   | | | | | | | |
+| 9:00am - 10:00am  | | | | | | | |
+| 10:00am - 11:00am | | Ben | | | | | |
+| 11:00am - 12:00pm | Ben | | Ben | | | |  |
+| 12:00pm - 1:00pm  | | | | Ben | | | |
+| 1:00pm - 2:00pm   | CLASS | | CLASS | | CLASS | | |
+| 2:00pm - 3:00pm   | CLASS | | CLASS | | CLASS | | |
+| 3:00pm - 4:00pm   | | | | | | | |
+| 4:00pm - 5:00pm   | | | | | | | |
+| 5:00pm - 6:00pm   | | | | | | | |
+| 6:00pm - 7:00pm   | | | | | | | |
 
 NOTE: This office hour schedule is subject to some change.
 Occasionally a TA might have to cancel or change one or more office hour(s).
