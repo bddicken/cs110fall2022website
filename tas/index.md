@@ -14,7 +14,7 @@ The best way to talk with a particular TA is via office hours, so check the sche
 ## Course Coordinators
 
 | Photo | Name | Email |
-| <img src="../images/dog.png" class="taimg" /> | Anthony Hsu | anthonyhsu@arizona.edu | 
+| <img src="../images/ahsu.jpeg" class="taimg" /> | Anthony Hsu | anthonyhsu@arizona.edu | 
 | <img src="../images/jgalvez.jpg" class="taimg" /> | Jaygee Galvez | justingalvez@arizona.edu |
 
 <br/>
