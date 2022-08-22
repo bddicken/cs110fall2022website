@@ -22,7 +22,7 @@ The best way to talk with a particular TA is via office hours, so check the sche
 ## TAs for 1pm
 
 | Photo | Name | Email |
-| <img src="../images/adwivedi.png" class="taimg" /> | Aman Dwivedi | adwivedi@arizona.edu |
+| <img src="../images/adwivedi.jpeg" class="taimg" /> | Aman Dwivedi | adwivedi@arizona.edu |
 | <img src="../images/marroyo.jpg" class="taimg" />  | Michael Arroyo | mearroyo33@arizona.edu | 
 | <img src="../images/dog.png" class="taimg" />  | Honor Jang | honorljang@arizona.edu | 
 | <img src="../images/aelbekov.jpg" class="taimg" />  | Eldorbek (Ali) Elbekov | eldorbek2001@arizona.edu | 
