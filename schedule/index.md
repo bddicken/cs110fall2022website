@@ -52,7 +52,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     8/24/2022 <br/>
     <b>Topic:</b> Strings, printing, user input <br/>
     <b>Prep:</b> <a href="https://docs.google.com/presentation/d/1g-HyrEVuTBycLJvwl0QEepgq1gbjBAGhz8cq49ZA-rA/edit?usp=sharing">Workspace setup instructions</a> and SOWP 1.1-1.5 <br/>
-    <a href="../preps/01/"><b>Prep Problem 1</b></a>
+    <a href="../preps/01/"><b>Prep Problem 1</b></a> <br/>
     <a href="./slides/01-Intro.pdf"><b>1pm Section Slides</b></a>
   </td>
   <td class="topic-general">
