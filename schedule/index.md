@@ -70,6 +70,10 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Topic:</b> Strings and special characters <br/>
     <a href="https://youtu.be/nTEjPUPT7uI">Review (code along) of strings with special characters</a> and <br/>
     <a href="https://youtu.be/UptmTvKq1uM">Challenge for printing strings with special characters </a> <br/>
+    <br/> 
+    <b>Topic:</b> Variables, floats, string multiplication <br/>
+    <a href="https://youtu.be/1mT9Rdpuz2Q?t=906">Video on Printing and Multiplication</a> (start at 15:06) and <br/>
+    <a href="https://youtu.be/UptmTvKq1uM">Video on Floats and Division</a> <br/>
   </td>
 </tr>
 
