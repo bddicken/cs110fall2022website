@@ -35,7 +35,7 @@ Ben's will typically meet in GS 850.
 | 1:00pm - 2:00pm   | CLASS | Anthony / Steven | CLASS | Steven | CLASS | | |
 | 2:00pm - 3:00pm   | CLASS | | CLASS | Zach | CLASS | | |
 | 3:00pm - 4:00pm   | Victoria / Ackbar / Nuzhat | Aidan / Brooke (O) | Nuzhat / Sam | Aidan / Zach | Victoria / Ackbar | | |
-| 4:00pm - 5:00pm   | Adriana / Victoria / Alankrit (O) | Rachel / Ackbar / Kari | Brooke / Sam | Rachel / Miro | Rachek / Ackbar | | |
+| 4:00pm - 5:00pm   | Adriana / Victoria / Alankrit (O) | Rachel / Ackbar / Kari | Brooke / Sam | Rachel / Miro | Rachel / Ackbar | | |
 | 5:00pm - 6:00pm   | Michael / Alankrit (O) | Kari / Jake / Michael | Michael / Adriana | Miro / Alex (O) / Jake | | | |
 | 6:00pm - 7:00pm   | Adan (O) | Kari / Michael / Jake | Adan (O) | Alex (R) / Jake | | | |
 
