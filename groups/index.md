@@ -3,7 +3,7 @@ layout: default
 title: Groups
 ---
 
-# Groups TBA
+# Groups
 
 Click on the section of the class you are enrolled in and look up your name.
 You should sit at the table with the corresponding table number.
