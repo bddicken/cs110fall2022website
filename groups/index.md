@@ -15,8 +15,6 @@ Click one of the sections shown below to see the seating chart:
 
 ## [1pm Groups](./benGroups/index.html)
 
-<br/>
-
 ## [2pm Groups](./adrianaGroups/index.html)
 
 <br />
