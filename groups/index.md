@@ -3,10 +3,9 @@ layout: default
 title: Groups
 ---
 
-
 # Groups TBA
-# IGNORE WORK IN PROGRESS
-- Jaygee
+
+<!--
 
 <br/>
 
@@ -18,3 +17,5 @@ title: Groups
 ## [2pm Groups](./adrianaGroups/index.html)
 
 <br />
+
+-->
