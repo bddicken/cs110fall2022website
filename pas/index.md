@@ -7,8 +7,9 @@ title: CSc 110 PAs
 
 <br/>
 
+## PA 2: [Star Wars Vehicles](./starwars/index.html)
 
-## Week 1: [Madlibs](./madlibs/index.html)
+## PA 1: [Madlibs](./madlibs/index.html)
 
 <br />
 
