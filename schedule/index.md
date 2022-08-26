@@ -59,6 +59,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Topic:</b> Numeric and values and variables, string multiplication <br/>
     <b>Prep:</b> SOWP 2.1-2.4 <br/>
     <a href="../preps/01/"><b>Prep Problem 1</b></a> <br/>
+    <a href="./slides/03-ints-mul.pdf"><b>1pm Section Slides</b></a>
   </td>
   <td class="">
   <!--
