@@ -89,11 +89,13 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Topic:</b> Math, if-statements<br/>
     <b>Prep:</b> SOWP 2.7-2.8 <br/>
     <a href="../preps/03/"><b>Prep Problem 3</b></a>
+    <a href="../preps/04/"><b>Prep Problem 4</b></a> <br/>
   </td>
   <td class="topic-general">
     9/2/2022 <br/>
     <b>Topic:</b> If-statements, comparing numbers <br/>
     <b>Prep:</b> SOWP 3.1 <br/>
+    <a href="../preps/05/"><b>Prep Problem 5</b></a> <br/>
   </td>
   <td class="">
     <b>Topic:</b> TBA
