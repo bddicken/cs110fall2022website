@@ -47,7 +47,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     8/22/2022 <br/>
     <b>Topic:</b> Course Introduction, Python Basics <br/>
     <a href="./slides/01-Intro.pdf"><b>1pm Section Slides</b></a> <br/>
-    <a href="./slides/02-Intro-AP-2pm.pdf"><b>2pm Section Slides</b></a>
+    <a href="./slides/01-Intro-AP-2pm.pdf"><b>2pm Section Slides</b></a>
   </td>
   <td class="topic-general">
     8/24/2022 <br/>
@@ -62,7 +62,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Prep:</b> SOWP 2.1-2.4 <br/>
     <a href="../preps/01/"><b>Prep Problem 1</b></a> <br/>
     <a href="./slides/03-ints-mul.pdf"><b>1pm Section Slides</b></a> <br/>
-    <a href="./slides/03-ints-mul-AP-2pm.pdf"><b>2pm Section Slides</b></a>
+    <a href="./slides/03-input-ints-mul-AP-2pm.pdf"><b>2pm Section Slides</b></a>
   </td>
   <td class="">
   <!--
