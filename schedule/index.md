@@ -46,20 +46,23 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
   <td class="topic-general">
     8/22/2022 <br/>
     <b>Topic:</b> Course Introduction, Python Basics <br/>
-    <a href="./slides/01-Intro.pdf"><b>1pm Section Slides</b></a>
+    <a href="./slides/01-Intro.pdf"><b>1pm Section Slides</b></a> <br/>
+    <a href="./slides/02-Intro-AP-2pm.pdf"><b>2pm Section Slides</b></a>
   </td>
   <td class="topic-general">
     8/24/2022 <br/>
     <b>Topic:</b> Strings, printing, user input <br/>
     <b>Prep:</b> <a href="https://docs.google.com/presentation/d/1g-HyrEVuTBycLJvwl0QEepgq1gbjBAGhz8cq49ZA-rA/edit?usp=sharing">Workspace setup instructions</a> and SOWP 1.1-1.5 <br/>
-    <a href="./slides/02-Python-basics.pdf"><b>1pm Section Slides</b></a>
+    <a href="./slides/02-Python-basics.pdf"><b>1pm Section Slides</b></a> <br/>
+    <a href="./slides/02-Python-basics-AP-2pm.pdf"><b>2pm Section Slides</b></a>
   </td>
   <td class="topic-general">
     8/26/2022 <br/>
     <b>Topic:</b> Numeric and values and variables, string multiplication <br/>
     <b>Prep:</b> SOWP 2.1-2.4 <br/>
     <a href="../preps/01/"><b>Prep Problem 1</b></a> <br/>
-    <a href="./slides/03-ints-mul.pdf"><b>1pm Section Slides</b></a>
+    <a href="./slides/03-ints-mul.pdf"><b>1pm Section Slides</b></a> <br/>
+    <a href="./slides/03-ints-mul-AP-2pm.pdf"><b>2pm Section Slides</b></a>
   </td>
   <td class="">
   <!--
