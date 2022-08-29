@@ -130,7 +130,7 @@ For instance:
 ###
 ```
 
-You should also do your best follow the code [Style Guidelines](../style)
+You should also do your best follow the code [Style Guidelines](../../style)
 
 ## Due Date
 
