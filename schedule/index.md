@@ -78,6 +78,8 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Topic:</b> Variables, floats, string multiplication <br/>
     <a href="https://youtu.be/1mT9Rdpuz2Q?t=906">Video on Printing and Multiplication</a> (start at 15:06) and <br/>
     <a href="https://youtu.be/UptmTvKq1uM">Video on Floats and Division</a> <br/>
+    <br/>
+    <a href="./slides/04-multiplication-floats-division.pdf"><b>Slides</b></a> <br/>
   </td>
 </tr>
 
@@ -87,6 +89,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Topic:</b> Basic mathematics, controlling data output <br/>
     <b>Prep:</b> SOWP 2.5-2.6 <br/>
     <a href="../preps/02/"><b>Prep Problem 2</b></a> <br/>
+    <a href="./slides/05-math.pdf"><b>1pm Section Slides</b></a> <br/>
     <a href="./slides/04-math-AP.pdf"><b>2pm Section Slides</b></a>
   </td>
   <td class="topic-general">
