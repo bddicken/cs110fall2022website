@@ -86,7 +86,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     8/29/2022 <br/>
     <b>Topic:</b> Basic mathematics, controlling data output <br/>
     <b>Prep:</b> SOWP 2.5-2.6 <br/>
-    <a href="../preps/02/"><b>Prep Problem 2</b></a>
+    <a href="../preps/02/"><b>Prep Problem 2</b></a> <br/>
     <a href="./slides/04-math-AP.pdf"><b>2pm Section Slides</b></a>
   </td>
   <td class="topic-general">
