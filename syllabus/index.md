@@ -294,19 +294,19 @@ For more information, including how to report a concern, please see http://polic
 UA Academic policies and procedures are available at [http://catalog.arizona.edu/policies](http://catalog.arizona.edu/policies).
 Student Assistance and Advocacy information is available at [http://deanofstudents.arizona.edu/student-assistance/students/student-assistance](http://deanofstudents.arizona.edu/student-assistance/students/student-assistance).
 
-### Illness
+### Illnesses and Emergencies
 
-* If you feel sick, or may have been in contact with someone who is infectious, stay home.
-  Except for seeking medical care, avoid contact with others and do not travel.
+* If you feel sick, or may have been in contact with someone who is infectious, stay home. Except for seeking medical care, avoid contact with others and do not travel. 
 
-* Notify your instructor(s) if you will be missing a course meeting or an assignment deadline.
-  Please understand that this does not guarantee an extension of the deadline.
+* Notify your instructor(s) if you will be missing up to one week of course meetings and/or assignment deadlines. 
 
-* If you must miss the equivalent of more than one week of class, you should contact the Dean of Students Office DOS-deanofstudents@email.arizona.edu to share documentation about the challenges you are facing.
+* If you must miss the equivalent of more than one week of class and have an emergency, the Dean of Students is the proper office to contact (DOS-deanofstudents@email.arizona.edu).  The Dean of Students considers the following as qualified emergencies: the birth of a child, mental health hospitalization, domestic violence matter, house fire, hospitalization for physical health (concussion/emergency surgery/coma/COVID-19 complications/ICU), death of immediate family, Title IX matters, etc.
 
-* As we enter the Fall semester, your and my health and safety remain the university’s highest priority.
-  To protect the health of everyone in this class, students are required to follow the university guidelines on COVID-19 mitigation.
-  Please visit www.covid19.arizona.edu.
+* Please understand that there is no guarantee of an extension when you are absent from class and/or miss a deadline.   
+
+### Course Communications
+
+The means of communication for this course will be either in-class, office hours, or via Discord.
 
 ### Obtaining Help
 
@@ -336,6 +336,10 @@ See https://deanofstudents.arizona.edu/absences
 ### COVID-19 
 
 As we enter the semester, our health and safety remain the university’s highest priority. To protect the health of everyone in this class, students are required to follow the university guidelines on COVID-19 mitigation. Please visit www.covid19.arizona.edu.
+
+### Makeup Policy for Students Who Register Late
+
+Students who register after school has already begun are not guaranteed to be given the opportunity to make up late work.
 
 ### Subject to Change Statement
 
