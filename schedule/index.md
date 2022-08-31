@@ -106,7 +106,8 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <a href="../preps/05/"><b>Prep Problem 5</b></a> <br/>
   </td>
   <td class="">
-    <b>Topic:</b> TBA
+    <b>Topic:</b> Computers <br/>
+    <a href="https://www.youtube.com/watch?v=Y3mU7vtGAOw">Video on Computer Structure</a> <br/>
   </td>
 </tr>
 
