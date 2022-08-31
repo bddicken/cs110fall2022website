@@ -108,6 +108,8 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
   <td class="">
     <b>Topic:</b> Computers <br/>
     <a href="https://www.youtube.com/watch?v=Y3mU7vtGAOw">Video on Computer Structure</a> <br/>
+    <b>Topic:</b> If + Strings <br/>
+    <a href="https://youtu.be/LRqbR-Um7yM">Video on FizzBuzz challenge</a> <br/>
   </td>
 </tr>
 
