@@ -96,8 +96,9 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     8/31/2022 <br/>
     <b>Topic:</b> Math, if-statements<br/>
     <b>Prep:</b> SOWP 2.7-2.8 <br/>
-    <a href="../preps/03/"><b>Prep Problem 3</b></a>
+    <a href="../preps/03/"><b>Prep Problem 3</b></a> <br/>
     <a href="../preps/04/"><b>Prep Problem 4</b></a> <br/>
+    <a href="./slides/07-if-statements.pdf"><b>1pm Section Slides</b></a> <br/>
   </td>
   <td class="topic-general">
     9/2/2022 <br/>
@@ -110,6 +111,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <a href="https://www.youtube.com/watch?v=Y3mU7vtGAOw">Video on Computer Structure</a> <br/>
     <b>Topic:</b> If + Strings <br/>
     <a href="https://youtu.be/LRqbR-Um7yM">Video on FizzBuzz challenge</a> <br/>
+    <a href="./slides/06-computer.pdf"><b>Slides</b></a> <br/>
   </td>
 </tr>
 
