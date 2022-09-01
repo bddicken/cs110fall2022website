@@ -99,6 +99,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <a href="../preps/03/"><b>Prep Problem 3</b></a> <br/>
     <a href="../preps/04/"><b>Prep Problem 4</b></a> <br/>
     <a href="./slides/07-if-statements.pdf"><b>1pm Section Slides</b></a> <br/>
+    <a href="./slides/05-math-and-if-statements-AP.pdf"><b>2pm Section Slides</b></a> 
   </td>
   <td class="topic-general">
     9/2/2022 <br/>
