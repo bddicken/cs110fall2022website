@@ -1,9 +1,9 @@
 ---
 layout: default
-title: CSc 110 - PA 1 - Star Wars
+title: CSc 110 - Star Wars
 ---
 
-# CSc 110 - PA 1 - Star Wars
+# CSc 110 - Star Wars
 
 In this PA, you will be writing multiple programs that print out ascii art of star-wars vehicles.
 Each of these programs shoult accept multiple values from the user which are used to adjust the size of the printout.
