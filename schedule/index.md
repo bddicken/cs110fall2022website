@@ -125,11 +125,13 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     9/7/2022 <br/>
     <b>Topic:</b> If-else statements, comparing strings <br/>
     <b>Prep:</b> SOWP 3.2-3.3, 1/2 of 3.4 <br/>
+    <a href="../preps/06/"><b>Prep Problem 6</b></a> <br/>
   </td>
   <td class="topic-general">
     9/9/2022 <br/>
     <b>Topic:</b> If-elif-else statements, nested conditions <br/>
     <b>Prep:</b> SOWP second half of 3.4, 3.5-3.6 <br/>
+    <a href="../preps/07/"><b>Prep Problem 7</b></a> <br/>
   </td>
   <td>
     <b>Topic:</b> TBA
