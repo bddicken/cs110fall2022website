@@ -106,6 +106,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Topic:</b> If-statements, comparing numbers <br/>
     <b>Prep:</b> SOWP 3.1 <br/>
     <a href="../preps/05/"><b>Prep Problem 5</b></a> <br/>
+    <a href="./slides/06-if-statements-AP.pdf"><b>2pm Section Slides</b></a> 
   </td>
   <td class="">
     <b>Topic:</b> Computers <br/>
