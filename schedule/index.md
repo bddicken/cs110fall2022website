@@ -156,7 +156,10 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Prep:</b> None <br/>
   </td>
   <td>
-    <b>Topic:</b> TBA
+    <b>Topic:</b> Binary <br/>
+    <a href="https://www.youtube.com/watch?v=2KEfk5jS0ZA">Intro to Binary</a> <br/>
+    <a href="https://www.youtube.com/watch?v=XDYstX1GOqk">Binary / Decimal Conversion</a> <br/>
+    <a href="https://www.youtube.com/watch?v=shQ_rx9WelY">Binary and Python</a> <br/>
   </td>
 </tr>
 
