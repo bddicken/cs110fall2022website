@@ -134,6 +134,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Topic:</b> If-elif-else statements, nested conditions <br/>
     <b>Prep:</b> SOWP second half of 3.4, 3.5-3.6 <br/>
     <a href="../preps/07/"><b>Prep Problem 7</b></a> <br/>
+    <a href="./slides/01-Intro.pdf"><b>Slides 1pm</b></a> <br/>
   </td>
   <td>
     <b>Topic:</b> If-else statements and while loops
