@@ -127,6 +127,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Topic:</b> If-else statements, comparing strings <br/>
     <b>Prep:</b> SOWP 3.2-3.3, 1/2 of 3.4 <br/>
     <a href="../preps/06/"><b>Prep Problem 6</b></a> <br/>
+    <a href="slides/07-if-else-elif-AP.pdf">Slides 2pm</a>
   </td>
   <td class="topic-general">
     9/9/2022 <br/>
@@ -135,7 +136,8 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <a href="../preps/07/"><b>Prep Problem 7</b></a> <br/>
   </td>
   <td>
-    <b>Topic:</b> TBA
+    <b>Topic:</b> If-else statements and while loops
+    <a href="https://youtu.be/LqBr7txblDk">Fibonacci Sequence Challenge</a> <br/>
   </td>
 </tr>
 
