@@ -129,4 +129,5 @@ All other code, spacing, and comments do count.
 
 You should not be using the `break` statement in your code, unless otherwise specified.
 If you want to use it to get out of a loop, think of another way!
+You should not use Python feature for an exam / assignment / prep / etc unless it has been covered either in-class or in the textbook up to the deadline of that task.
 
