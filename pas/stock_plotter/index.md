@@ -243,7 +243,7 @@ See the differ program, or gradescope, for some example outputs.
 
 ## Due Date
 
-This PA is due on Tuesday, September 20th at 7pm.
+This PA is due on Tuesday, September 27th at 7pm.
 Turn in the program via Gradescope.
 You should make sure that all of the test cases pass before you turn it in.
 You can still submit without all of the cases passing, but that is not preferable.
