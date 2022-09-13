@@ -149,6 +149,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Prep:</b> SOWP 4.1-4.2 <br/>
     <a href="../preps/08/"><b>Prep Problem 8</b></a> <br/>
     <a href="./slides/09-while-loops.pdf"><b>1pm Section Slides</b></a> <br/>
+    <a href="./slides/09-while-loops-AP.pdf"><b>2pm Section Slides</b></a>
   </td>
   <td class="topic-general">
     9/14/2022 <br/>
