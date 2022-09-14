@@ -72,6 +72,6 @@ Video content will be made available for those that have to miss a class.
 
 ## Study Guides
 
-## [Exam 1 Study Guide](./files/exam1studyguide.pdf)
+### [Exam 1 Study Guide](./files/exam1studyguide.pdf)
 
 
