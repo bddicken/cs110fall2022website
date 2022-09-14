@@ -29,6 +29,10 @@ We will be using python 3 in this course, and as a student, you will learn the b
 By the end of the semester, you should be able to write complete, well-structured programs in python.
 For more information about the course and policies, see the [course syllabus](./syllabus/index.html).
 
+## Study Guides
+
+### [Exam 1 Study Guide](./files/exam1studyguide.pdf)
+
 ## Modality
 
 This course is scheduled as an in-person course, and the exact meeting time(s) are shown in the syllabus.
@@ -69,9 +73,5 @@ Video content will be made available for those that have to miss a class.
 | [Style Guide](./style/) | Rules to follow when coding |
 | [CodingBat](https://codingbat.com/python) and [CodeSBS](https://www.codestepbystep.com) | Websites for additional programming practice |
 | [graphics.py](./files/graphics.py) | A graphics module for 110 PAs |
-
-## Study Guides
-
-### [Exam 1 Study Guide](./files/exam1studyguide.pdf)
 
 
