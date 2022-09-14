@@ -70,4 +70,8 @@ Video content will be made available for those that have to miss a class.
 | [CodingBat](https://codingbat.com/python) and [CodeSBS](https://www.codestepbystep.com) | Websites for additional programming practice |
 | [graphics.py](./files/graphics.py) | A graphics module for 110 PAs |
 
+## Study Guides
+
+## [Exam 1 Study Guide](./files/exam1studyguide.pdf)
+
 
