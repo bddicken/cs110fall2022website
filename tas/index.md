@@ -23,8 +23,7 @@ The best way to talk with a particular TA is via office hours, so check the sche
 
 | Photo | Name | Email |
 | <img src="../images/adwivedi.jpeg" class="taimg" /> | Aman Dwivedi | adwivedi@arizona.edu |
-| <img src="../images/marroyo.jpg" class="taimg" />  | Michael Arroyo | mearroyo33@arizona.edu | 
-| <img src="../images/dog.png" class="taimg" />  | Honor Jang | honorljang@arizona.edu | 
+| <img src="../images/hjang.png" class="taimg" />  | Honor Jang | honorljang@arizona.edu | 
 | <img src="../images/aelbekov.jpg" class="taimg" />  | Eldorbek (Ali) Elbekov | eldorbek2001@arizona.edu | 
 | <img src="../images/kcordes.png" class="taimg" />  | Kari Cordes | karicordes@arizona.edu | 
 | <img src="../images/asafayan.png" class="taimg" />  | Alex Safayan | alexsafayan@arizona.edu | 
