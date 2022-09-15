@@ -36,8 +36,8 @@ Ben's will typically meet in GS 850.
 | 2:00pm - 3:00pm   | CLASS | Miro / Steven | CLASS | Zach | CLASS | | |
 | 3:00pm - 4:00pm   | Victoria / Khojiakbar  / Nuzhat | Aidan / Miro / Steven | Brooke /  Sam / Khojiakbar | Aidan / Zach / Miro | Victoria / Khojiakbar  | | |
 | 4:00pm - 5:00pm   | Nuzhat / Adriana / Victoria / Alankrit (O) | | Brooke / Sam | Zach / Rachel / Miro | Rachel / Khojiakbar  | | |
-| 5:00pm - 6:00pm   | Michael / Alankrit (O) | Kari / Jake / Michael / Rachel | Michael / Adriana | Miro / Alex (O) / Jake | | | |
-| 6:00pm - 7:00pm   | Adan (O) | Kari / Michael / Jake | Adan (O) | Alex (R) / Jake | | | |
+| 5:00pm - 6:00pm   |  Alankrit (O) | Kari / Jake / Rachel | Adriana | Miro / Alex (O) / Jake | | | |
+| 6:00pm - 7:00pm   | Adan (O) | Kari / Jake | Adan (O) | Alex (R) / Jake | | | |
 
 NOTE: This office hour schedule is subject to some change.
 Occasionally a TA might have to cancel or change one or more office hour(s).
