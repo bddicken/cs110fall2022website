@@ -156,6 +156,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Topic:</b> While-loops <br/>
     <b>Prep:</b> SOWP 4.1-4.2 <br/>
     <a href="../preps/09/"><b>Prep Problem 9</b></a> <br/>
+    <a href="./slides/10-while-AP.pdf"><b>2pm Section Slides</b></a> <br/>
   </td>
   <td class="topic-general">
     9/16/2022 <br/>
