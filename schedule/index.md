@@ -156,6 +156,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Topic:</b> While-loops <br/>
     <b>Prep:</b> SOWP 4.1-4.2 <br/>
     <a href="../preps/09/"><b>Prep Problem 9</b></a> <br/>
+    <a href="./slides/10-while-continued.pdf"><b>1pm Section Slides</b></a> <br/>
     <a href="./slides/10-while-AP.pdf"><b>2pm Section Slides</b></a> <br/>
   </td>
   <td class="topic-general">
@@ -163,6 +164,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Topic:</b> String Indexing, Loop table <br/>
     <b>Prep:</b> None <br/>
     <a href="../preps/10/"><b>Prep Problem 10</b></a> <br/>
+    <a href="./slides/11-loop-tables.pdf"><b>1pm Section Slides</b></a> <br/>
     <a href="./slides/11-loop-tables-AP.pdf"><b>2pm Section Slides</b></a> <br/>
   </td>
   <td>
@@ -170,6 +172,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <a href="https://www.youtube.com/watch?v=2KEfk5jS0ZA">Intro to Binary</a> <br/>
     <a href="https://www.youtube.com/watch?v=XDYstX1GOqk">Binary / Decimal Conversion</a> <br/>
     <a href="https://www.youtube.com/watch?v=shQ_rx9WelY">Binary and Python</a> <br/>
+    <a href="./slides/12-binary.pdf"><b>Slides</b></a> <br/>
   </td>
 </tr>
 
