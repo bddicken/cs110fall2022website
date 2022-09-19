@@ -163,6 +163,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Topic:</b> String Indexing, Loop table <br/>
     <b>Prep:</b> None <br/>
     <a href="../preps/10/"><b>Prep Problem 10</b></a> <br/>
+    <a href="./slides/11-loop-tables-AP.pdf"><b>2pm Section Slides</b></a> <br/>
   </td>
   <td>
     <b>Topic:</b> Binary <br/>
