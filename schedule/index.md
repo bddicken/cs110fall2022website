@@ -194,7 +194,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     Group Exam 1 <br/>
   </td>
   <td>
-    <b>Topic:</b> TBA
+    <b>Topic:</b> None
   </td>
 </tr>
 
@@ -209,13 +209,15 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     9/28/2022 <br/>
     <b>Topic:</b> Function parameters, returns <br/>
     <b>Prep:</b> SOWP 5.5 <br/>
+    <a href="../preps/12/"><b>Prep Problem 12</b></a> <br/>
     
   </td>
   <td class="topic-general">
     9/30/2022 <br/>
     <b>Topic:</b> Variable Scope <br/>
     <b>Prep:</b> SOWP 5.7 <br/>
-    
+    <a href="../preps/13/"><b>Prep Problem 13</b></a> <br/> and
+    <a href="../preps/14/"><b>Prep Problem 14</b></a> <br/>
   </td>
   <td>
     <b>Topic:</b> TBA
@@ -227,19 +229,20 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     10/3/2022 <br/>
     <b>Topic:</b> Basic graphical shapes <br/>
     <b>Prep:</b> SOWP 5.8 <br/>
-    <b><a href="#">slides</a></b>
+    <a href="../preps/15/"><b>Prep Problem 15</b></a> <br/>
   </td>
   <td class="topic-graphics">
     10/5/2022 <br/>
     <b>Topic:</b> Graphical motion <br/>
     <b>Prep:</b> Review Graphics slides from previous class <br/>
-    <b><a href="#">slides</a></b>
+    <a href="../preps/16/"><b>Prep Problem 16</b></a> <br/>
   </td>
   <td class="topic-graphics">
     10/7/2022 <br/>
     <b>Topic:</b> Graphical motion <br/>
     <b>Prep:</b> SOWP 2.9, SOWP 7.1-7.2 <br/>
     <a href="./res/hut.py">hut.py</a> <br/>
+    <a href="../preps/17/"><b>Prep Problem 17</b></a> <br/>
   </td>
   <td>
     <b>Topic:</b> TBA
