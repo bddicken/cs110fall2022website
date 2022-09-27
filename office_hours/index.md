@@ -29,9 +29,9 @@ Ben's will typically meet in GS 850.
 |---|---|---|---|---|---|
 | 8:00am - 9:00am   | | Ali E. | | | | | |
 | 9:00am - 10:00am  | Anthony (O) | Ali E. / Jeziel (O) | Anthony (O) | Miro | Anthony (O) | Mustafa (O) | Ali E. (O) |
-| 10:00am - 11:00am | Honor (O) / Ali K. (O) | Farabi / Ben / Jaygee / Jeziel (O) | Ali K. (O) | Miro / Ben | Ali K. (O) / Kari (O) | Mustafa (O) | Kari (O) / Ali E. (O) |
-| 11:00am - 12:00pm | Honor (O) / Ali K. (O) / Ben | Aman / Farabi / Jaygee / Adriana / Honor / Jeziel (O) / Aidan | Zach / Cezar / Ali K. (O)  / Alankrit / Ben | Aman Farabi / Miro / Adan (O) | Ali K. (O) | Alankrit (O) | Kari (O) |
-| 12:00pm - 1:00pm  |  | Aman | Zach / Farabi / Cezar / Alankrit | Aman / Miro | Farabi / Aidan | Alankrit (O) | | 
+| 10:00am - 11:00am | Honor (O) / Ali K. (O) | Farabi / Ben / Jaygee / Jeziel (O) | Ali K. (O) | Farabi (O) / Miro / Ben | Ali K. (O) / Kari (O) | Mustafa (O) | Kari (O) / Ali E. (O) |
+| 11:00am - 12:00pm | Honor (O) / Ali K. (O) / Ben | Aman / Farabi / Jaygee / Adriana / Honor / Jeziel (O) / Aidan | Zach / Cezar / Ali K. (O)  / Alankrit / Ben | Aman / Farabi (O) / Miro / Adan (O) | Ali K. (O) | Alankrit (O) | Kari (O) |
+| 12:00pm - 1:00pm  |  | Aman | Zach / Farabi / Cezar / Alankrit | Aman / Miro | Aidan | Alankrit (O) | | 
 | 1:00pm - 2:00pm   | CLASS | Anthony / Steven | CLASS | Steven | CLASS | | |
 | 2:00pm - 3:00pm   | CLASS | Miro / Steven | CLASS | Zach | CLASS | | |
 | 3:00pm - 4:00pm   | Victoria / Khojiakbar  / Nuzhat | Aidan / Miro / Steven | Brooke /  Sam / Khojiakbar | Aidan / Zach / Miro | Victoria / Khojiakbar  | | |
