@@ -13,17 +13,12 @@ You can also use the classroom map to help you figure out approximately where th
 
 Click one of the sections shown below to see the seating chart:
 
-# Phase 2 (current groups)
+# Groups (UPDATED AFTER EXAM 1)
 
 ## [1pm Groups](./benGroups/index2.html)
 
-## [2pm Groups](./adrianaGroups/index2.html)
-
-# Phase 1 (old groups)
-
-## [1pm Groups](./benGroups/index.html)
-
 ## [2pm Groups](./adrianaGroups/index.html)
+
 
 <br />
 
