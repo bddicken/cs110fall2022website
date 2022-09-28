@@ -204,6 +204,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Topic:</b> Functions, parameters, return <br/>
     <b>Prep:</b> SOWP 5.3-5.4 <br/>
     <a href="./slides/14-functions-args-params.pdf"><b>1pm Section Slides</b></a> <br/>
+    <a href="./slides/13-functions-args-params-AP.pdf"><b>2pm Section Slides</b></a> <br/>
      <br/>
   </td>
   <td class="topic-general">
