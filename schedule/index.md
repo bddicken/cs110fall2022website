@@ -222,7 +222,9 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <a href="../preps/14/"><b>Prep Problem 14</b></a> <br/>
   </td>
   <td>
-    <b>Topic:</b> TBA
+    <b>Topic:</b> Writing Functions <br/>
+    <a href="https://www.youtube.com/watch?v=2KEfk5jS0ZA">Function to reverse a string</a> <br/>
+    <a href="https://youtu.be/D2L1OkVdfio">Function to check if a number is a prime</a> <br/>
   </td>
 </tr>
 
