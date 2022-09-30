@@ -212,6 +212,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Topic:</b> Function parameters, returns <br/>
     <b>Prep:</b> SOWP 5.5 <br/>
     <a href="../preps/12/"><b>Prep Problem 12</b></a> <br/>
+    <a href="./slides/14-functions-return-AP.pdf"><b>2pm Section Slides</b></a> <br/>
     
   </td>
   <td class="topic-general">
@@ -220,6 +221,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Prep:</b> SOWP 5.7 <br/>
     <a href="../preps/13/"><b>Prep Problem 13</b></a> <br/> and
     <a href="../preps/14/"><b>Prep Problem 14</b></a> <br/>
+    <a href="./slides/15-functions-return-string-slice-AP.pdf"><b>2pm Section Slides</b></a> <br/>
   </td>
   <td>
     <b>Topic:</b> Writing Functions <br/>
