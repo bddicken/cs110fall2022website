@@ -143,6 +143,12 @@ class graphics:
         self.frame_space(frame_rate)
         self.frame_count += 1
     
+    def draw(self):
+        ''' Draw a static graphic. Should be called after specifying the shapes to draw.
+        '''
+        self.primary.mainloop()
+        canvas.delete('all')
+    
     def clear(self):
         ''' Clears the canvas.
         '''
