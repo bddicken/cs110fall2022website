@@ -29,39 +29,24 @@ Ben's will typically meet in GS 850.
 
 | Color | Meaning | Location |
 | --- | --- | --- |
-| <mark style="background-color:lightgreen">Light Green</mark> | Instructor OH | Gould-Simpson 829 |
-| <mark style="background-color:lightblue">Light Blue</mark> | Instructor OH | Gould-Simpson 850 |
+| <mark style="background-color:lightgreen">Light Green</mark> | Instructor OH (Adriana) | Gould-Simpson 829 |
+| <mark style="background-color:lightblue">Light Blue</mark> | Instructor OH (Ben) | Gould-Simpson 850 |
 | <mark>Yellow</mark> | Online OH | Class Discord (office-hours) |
 
-<!-- 
-<mark>Anthony</mark>
-<mark>Mustafa</mark>
-<mark>Honor</mark>
-<mark>Kari</mark>
-<mark>Ali E.</mark>
-<mark>Farabi</mark>
-<mark>Adan</mark>
-<mark>Alankriy</mark>
-<mark>Ali K.</mark>
-<mark>Jeziel</mark>
-
-<mark style="background-color:lightblue">Ben</mark>
-<mark style="background-color:lightgreen">Adriana</mark>
--->
 
 | Time | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |---|---|---|---|---|---|
 | 8:00am - 9:00am   | | Ali E. | | | | | |
-| 9:00am - 10:00am  | Anthony (O) | Ali E. / Jeziel (O) | Anthony (O) | Miro | Anthony (O) | Mustafa (O) | Ali E. (O) |
-| 10:00am - 11:00am | Honor (O) / Ali K. (O) | Farabi / Ben / Jaygee / Jeziel (O) | Ali K. (O) | Farabi (O) / Miro / Ben | Ali K. (O) / Kari (O) | Mustafa (O) | Kari (O) / Ali E. (O) |
-| 11:00am - 12:00pm | Honor (O) / Ali K. (O) / Ben | Aman / Farabi / Jaygee / Adriana / Honor / Jeziel (O) / Aidan | Zach / Cezar / Ali K. (O)  / Alankrit / Ben | Aman / Farabi (O) / Miro / Adan (O) | Ali K. (O) | Alankrit (O) | Kari (O) |
-| 12:00pm - 1:00pm  |  | Aman | Zach / Farabi / Cezar / Alankrit | Aman / Miro | Aidan | Alankrit (O) | | 
-| 1:00pm - 2:00pm   | CLASS | Anthony / Steven | CLASS | Steven | CLASS | | |
+| 9:00am - 10:00am  | <mark>Anthony</mark> | Ali E. / <mark>Jeziel </mark> | <mark>Anthony</mark> | Miro | <mark>Anthony</mark> | <mark>Mustafa </mark> | <mark>Ali E.</mark> |
+| 10:00am - 11:00am | <mark>Honor</mark> / <mark>Ali K.</mark> | Farabi / <mark style="background-color:lightblue">Ben</mark> / Jaygee / <mark>Jeziel </mark> | <mark>Ali K.</mark> | <mark>Farabi</mark> / Miro / <mark style="background-color:lightblue">Ben</mark> | <mark>Ali K.</mark> / <mark>Kari</mark> | <mark>Mustafa </mark> | <mark>Kari</mark> / <mark>Ali E.</mark> |
+| 11:00am - 12:00pm | <mark>Honor</mark> / <mark>Ali K.</mark> / <mark style="background-color:lightblue">Ben</mark> | Aman / Farabi / Jaygee / <mark style="background-color:lightgreen">Adriana</mark> / Honor / <mark>Jeziel </mark> / Aidan | Zach / Cezar / <mark>Ali K.</mark>  / Alankrit / <mark style="background-color:lightblue">Ben</mark> | Aman / <mark>Farabi</mark> / Miro / <mark>Adan</mark> | <mark>Ali K.</mark> | <mark>Alankrit</mark> | <mark>Kari</mark> |
+| 12:00pm - 1:00pm  |  | Aman | Zach / Farabi / Cezar / Alankrit | Aman / Miro | Aidan | <mark>Alankrit</mark> | | 
+| 1:00pm - 2:00pm   | CLASS | Anthony / Steven | CLASS | | CLASS | | |
 | 2:00pm - 3:00pm   | CLASS | Miro / Steven | CLASS | Zach | CLASS | | |
 | 3:00pm - 4:00pm   | Victoria / Khojiakbar  / Nuzhat | Aidan / Miro / Steven | Brooke /  Sam / Khojiakbar | Aidan / Zach / Miro | Victoria / Khojiakbar  | | |
-| 4:00pm - 5:00pm   | Nuzhat / Adriana / Victoria / Alankrit (O) | | Brooke / Sam | Zach / Rachel / Miro | Rachel / Khojiakbar  | | |
-| 5:00pm - 6:00pm   |  Alankrit (O) | Kari / Jake / Rachel | Adriana | Miro / Alex (O) / Jake | | | |
-| 6:00pm - 7:00pm   | Adan (O) | Kari / Jake | Adan (O) | Alex (R) / Jake | | | |
+| 4:00pm - 5:00pm   | Nuzhat / <mark style="background-color:lightgreen">Adriana</mark> / Victoria / <mark>Alankrit</mark> | | Brooke / Sam | Zach / Rachel / Miro | Rachel / Khojiakbar  | | |
+| 5:00pm - 6:00pm   |  <mark>Alankrit</mark> | Kari / Jake / Rachel | <mark style="background-color:lightgreen">Adriana</mark> | Miro / <mark>Alex</mark> / Jake | | | |
+| 6:00pm - 7:00pm   | <mark>Adan</mark> | Kari / Jake | <mark>Adan</mark> | <mark>Alex</mark> / Jake | | | |
 
 NOTE: This office hour schedule is subject to some change.
 Occasionally a TA might have to cancel or change one or more office hour(s).
