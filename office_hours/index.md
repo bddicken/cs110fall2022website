@@ -25,6 +25,14 @@ For these office hours, log in to the class discord server, put your name in the
 Adriana's will typically meet in GS 829.
 Ben's will typically meet in GS 850.
 
+## Schedule Key
+| Color | Meaning | Location |
+| --- | --- | --- |
+| <mark style="background-color:lightgreen">Light Green</mark> | Instructor OH | Gould-Simpson 829 |
+| <mark style="background-color:lightblue">Light Blue</mark> | Instructor OH | Gould-Simpson 850 |
+| <mark>Yellow</mark> | Online OH | Class Discord (#office-hours) |
+
+
 | Time | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |---|---|---|---|---|---|
 | 8:00am - 9:00am   | | Ali E. | | | | | |
