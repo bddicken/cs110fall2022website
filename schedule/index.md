@@ -221,6 +221,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Prep:</b> SOWP 5.7 <br/>
     <a href="../preps/13/"><b>Prep Problem 13</b></a> <br/> and
     <a href="../preps/14/"><b>Prep Problem 14</b></a> <br/>
+    <a href="./slides/16-functions-return-string-slice.pdf"><b>1pm Section Slides</b></a> <br/>
     <a href="./slides/15-functions-return-string-slice-AP.pdf"><b>2pm Section Slides</b></a> <br/>
   </td>
   <td>
@@ -228,6 +229,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <a href="https://youtu.be/vbjKMpFVHjQ">Function to reverse a string</a> <br/>
     <a href="https://youtu.be/D2L1OkVdfio">Function to check if a number is a prime</a> <br/>
     <a href="https://www.youtube.com/watch?v=xSZEFiJXK0k">Weekend Planner</a> <br/>
+    <a href="./slides/15-functions-planner-example.pdf"><b>Weekend Planner Slides</b></a> <br/>
   </td>
 </tr>
 
