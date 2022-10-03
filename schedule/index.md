@@ -239,6 +239,8 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Topic:</b> Basic graphical shapes <br/>
     <b>Prep:</b> SOWP 5.8 <br/>
     <a href="../preps/15/"><b>Prep Problem 15</b></a> <br/>
+    <a href="./slides/16-graphics-AP.pdf"><b>2pm Section Slides</b></a> <br/>
+    
   </td>
   <td class="topic-graphics">
     10/5/2022 <br/>
