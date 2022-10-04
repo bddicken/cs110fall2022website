@@ -7,6 +7,7 @@ title: CSc 110 PAs
 
 <br/>
 
+## PA 6 [Motion Parallax](./motion_parallax/index.html)
 
 ## PA 5: [Avatar](./avatar/index.html)
 
