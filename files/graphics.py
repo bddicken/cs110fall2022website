@@ -147,7 +147,6 @@ class graphics:
         ''' Draw a static graphic. Should be called after specifying the shapes to draw.
         '''
         self.primary.mainloop()
-        canvas.delete('all')
     
     def clear(self):
         ''' Clears the canvas.
