@@ -247,6 +247,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Topic:</b> Graphical motion <br/>
     <b>Prep:</b> Review Graphics slides from previous class <br/>
     <a href="../preps/16/"><b>Prep Problem 16</b></a> <br/>
+    <a href="./slides/18-graphics-motion.pdf"><b>1pm and 2pm Section Slides</b></a> <br/>
   </td>
   <td class="topic-graphics">
     10/7/2022 <br/>
