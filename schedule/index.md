@@ -279,7 +279,8 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>prep:</b> SOWP 6.1 <br/>
   </td>
   <td>
-    <b>Topic:</b> TBA
+    <b>Topic:</b> Random <br/>
+    <a href="https://www.youtube.com/watch?v=TsUkJe3X8k8">Random values with Python</a> <br/>
   </td>
 </tr>
 
