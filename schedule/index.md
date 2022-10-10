@@ -277,6 +277,10 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     10/14/2022 <br/>
     <b>topic:</b> reading and writing files <br/>
     <b>prep:</b> SOWP 6.1 <br/>
+    <a href="../preps/18/"><b>Prep Problem 18</b></a> <br/>
+    <a href="../preps/19/"><b>Prep Problem 19</b></a> <br/>
+    <a href="../preps/20/"><b>Prep Problem 20</b></a> <br/>
+    <a href="../preps/21/"><b>Prep Problem 21</b></a> <br/>
   </td>
   <td>
     <b>Topic:</b> Random <br/>
