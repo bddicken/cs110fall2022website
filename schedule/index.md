@@ -247,7 +247,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Topic:</b> Graphical motion <br/>
     <b>Prep:</b> Review Graphics slides from previous class <br/>
     <a href="../preps/16/"><b>Prep Problem 16</b></a> <br/>
-    <a href="./slides/18-graphics-motion.pdf"><b>1pm and 2pm Section Slides</b></a> <br/>
+    <a href="./slides/17-graphics.pdf"><b>1pm and 2pm Section Slides</b></a> <br/>
   </td>
   <td class="topic-graphics">
     10/7/2022 <br/>
@@ -255,6 +255,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Prep:</b> SOWP 2.9, SOWP 7.1-7.2 <br/>
     <a href="./res/hut.py">hut.py</a> <br/>
     <a href="../preps/17/"><b>Prep Problem 17</b></a> <br/>
+    <a href="./slides/18-graphics-motion.pdf"><b>1pm Slides</b></a> <br/>
   </td>
   <td>
     <b>Topic:</b> TBA
