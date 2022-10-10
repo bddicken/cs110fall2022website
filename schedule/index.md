@@ -269,6 +269,8 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <a href="./res/hut.py">hut.py</a> <br/>
     <a href="./res/space.py">space.py</a> <br/>
     <b>Prep:</b> SOWP 4.3-4.4 <br/>
+    <a href="./slides/19-graphics.pdf"><b>1pm Slides</b></a> <br/>
+    <a href="./slides/21-lists.pdf"><b>1pm Slides</b></a> <br/>
   </td>
   <td class="topic-general">
     10/12/2022 <br/>
