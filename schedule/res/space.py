@@ -34,4 +34,3 @@ def main():
         gui.update_frame(30)
 
 main()
-
