@@ -278,7 +278,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     10/12/2022 <br/>
     <b>Topic:</b> Lists and for-loops <br/>
     <b>Prep:</b> SOWP 7.3-7.5 <br/>
-    <a href="./slides/22-lists-flash-cards-AP-before.pdf"><b>2pm Slides</b></a> <br/>
+    <a href="./slides/22-lists-flash-cards-AP.pdf"><b>2pm Slides</b></a> <br/>
   </td>
   <td class="topic-general">
     10/14/2022 <br/>
@@ -288,6 +288,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <a href="../preps/19/"><b>Prep Problem 19</b></a> <br/>
     <a href="../preps/20/"><b>Prep Problem 20</b></a> <br/>
     <a href="../preps/21/"><b>Prep Problem 21</b></a> <br/>
+    <a href="./slides/23-for-loops-and-lists-AP-before.pdf"><b>2pm Slides</b></a> <br/>
   </td>
   <td>
     <b>Topic:</b> Random <br/>
