@@ -303,6 +303,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     10/17/2022 <br/>
     <b>topic:</b> reading and writing files <br/>
     <b>prep:</b> sowp 6.2-6.3 <br/>
+    <a href="./slides/25-file-reading.pdf"><b>1pm Slides</b></a> <br/>
     <a href="./slides/24-file-reading-AP-before.pdf"><b>2pm Slides</b></a> <br/>
   </td>
   <td class="exam">
