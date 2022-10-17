@@ -314,7 +314,8 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     Group Exam 2 <br/>
   </td>
   <td>
-    <b>Topic:</b> TBA
+    <b>Topic:</b> Lists <br/>
+    <b><a href="https://www.youtube.com/watch?v=JwfzbXiALb8">Score Keeping example</a></b>
   </td>
 </tr>
 
@@ -359,7 +360,9 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Prep:</b> None <br/>
   </td>
   <td>
-    <b>Topic:</b> TBA
+    <b>Topic:</b> Saving and Loading Scores <br/>
+    <a href="https://www.youtube.com/watch?v=RQUCqRypwAM">Loading Scores</a> <br/>
+    <a href="https://www.youtube.com/watch?v=13Rt7-EA6Ng">Saving Scores</a> <br/>
   </td>
 </tr>
 
