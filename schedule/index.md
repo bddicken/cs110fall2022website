@@ -326,21 +326,25 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Topic:</b> Reading files and graphics <br/>
     <b>Prep:</b> SOWP 8.1-8.2 <br/>
     <a href="./res/rome.gif">Map of Rome</a> <br/>
-    
   </td>
   <td class="topic-general">
     10/26/2022 <br/>
     <b>Topic:</b> Advanced string processing <br/>
     <b>Prep:</b> SOWP 8.3 <br/>
-    
+    <a href="../preps/22/"><b>Prep Problem 22</b></a> <br/>
+    <a href="../preps/23/"><b>Prep Problem 23</b></a> <br/>
   </td>
   <td class="topic-general">
     10/28/2022 <br/>
     <b>Topic:</b> Dictionaries <br />
     <b>Prep:</b> SOWP 9.1 <br/>
+    <a href="../preps/24/"><b>Prep Problem 24</b></a> <br/>
+    <a href="../preps/25/"><b>Prep Problem 25</b></a> <br/>
   </td>
   <td>
-    <b>Topic:</b> TBA
+    <b>Topic:</b> Saving and Loading Scores <br/>
+    <a href="https://www.youtube.com/watch?v=RQUCqRypwAM">Loading Scores</a> <br/>
+    <a href="https://www.youtube.com/watch?v=13Rt7-EA6Ng">Saving Scores</a> <br/>
   </td>
 </tr>
 
@@ -349,21 +353,22 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     10/31/2022 <br/>
     <b>Topic:</b> Dictionaries <br/>
     <b>Prep:</b> SOWP 9.2 <br/>
+    <a href="../preps/26/"><b>Prep Problem 26</b></a> <br/>
   </td>
   <td class="topic-general">
     11/2/2022 <br/>
     <b>Topic:</b> Dictionaries <br/>
     <b>Prep:</b> None <br/>
+    <a href="../preps/27/"><b>Prep Problem 27</b></a> <br/>
   </td>
   <td class="topic-general">
     11/4/2022 <br/>
     <b>Topic:</b> Sets and Dictionaries <br/>
     <b>Prep:</b> None <br/>
+    <a href="../preps/28/"><b>Prep Problem 28</b></a> <br/>
   </td>
   <td>
-    <b>Topic:</b> Saving and Loading Scores <br/>
-    <a href="https://www.youtube.com/watch?v=RQUCqRypwAM">Loading Scores</a> <br/>
-    <a href="https://www.youtube.com/watch?v=13Rt7-EA6Ng">Saving Scores</a> <br/>
+    <b>Topic:</b> TBA
   </td>
 </tr>
 

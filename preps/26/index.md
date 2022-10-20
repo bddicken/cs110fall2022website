@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Prep 1
+title: Prep 26
 ---
 
-# Prep Problem - 1
+# Prep Problem - 26
 
 In this problem, you should write a function named `longest_word`.
 This function should have one parameter, a string with words separated by spaces.
