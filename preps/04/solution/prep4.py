@@ -1,5 +1,0 @@
-feet = int(input('Number of feet:\n'))
-print()
-print('Inches:', (feet * 12))
-print('Meter:', round(feet * 0.3048, 3))
-print('Rods:', round(feet / 16.5, 1))

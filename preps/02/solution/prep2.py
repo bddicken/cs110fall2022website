@@ -1,6 +1,0 @@
-eye = input('Eye style:\n')
-print()
-print('|||||||')
-print('| ' + eye + ' ' + eye + ' |')
-print('|  _  |')
-print(' ----- ')
