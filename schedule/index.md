@@ -326,6 +326,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Topic:</b> Reading files and graphics <br/>
     <b>Prep:</b> SOWP 8.1-8.2 <br/>
     <a href="./res/rome.gif">Map of Rome</a> <br/>
+    <a href="./slides/25-files-AP-before.pdf"><b>2pm Slides</b></a> <br/>
   </td>
   <td class="topic-general">
     10/26/2022 <br/>
