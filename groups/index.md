@@ -13,7 +13,7 @@ You can also use the classroom map to help you figure out approximately where th
 
 Click one of the sections shown below to see the seating chart:
 
-# Groups (Final Groups)
+# Groups (Updated after Exam 2)
 
 
 ## [1pm Groups](./benGroups/index.md)
