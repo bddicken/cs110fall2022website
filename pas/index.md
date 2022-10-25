@@ -7,6 +7,8 @@ title: CSc 110 PAs
 
 <br/>
 
+## PA 8 [Encrypter / Decrypter](./encrypter_decrypter/index.html)
+
 ## PA 7 [1D Chess](./1d_chess/index.html)
 
 ## PA 6 [Motion Parallax](./motion_parallax/index.html)
