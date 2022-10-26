@@ -343,9 +343,11 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <a href="../preps/25/"><b>Prep Problem 25</b></a> <br/>
   </td>
   <td>
-    <b>Topic:</b> Saving and Loading Scores <br/>
     <a href="https://www.youtube.com/watch?v=RQUCqRypwAM">Loading Scores</a> <br/>
-    <a href="https://www.youtube.com/watch?v=13Rt7-EA6Ng">Saving Scores</a> <br/>
+    <a href="https://www.youtube.com/watch?v=13Rt7-EA6Ng">Saving Scores</a> <br/> <br/>
+    <a href="./slides/26-score_keeper-save-load.pdf"><b>Score Keeper Slides</b></a> <br/>
+    <a href="https://www.youtube.com/watch?v=21eG_xpqbH8">Constants and Swapping</a> <br/> <br/>
+    <a href="./slides/28-constants-swapping.pdf"><b>Constants + Swapping Slides</b></a> <br/>
   </td>
 </tr>
 
