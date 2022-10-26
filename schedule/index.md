@@ -334,6 +334,8 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Prep:</b> SOWP 8.3 <br/>
     <a href="../preps/22/"><b>Prep Problem 22</b></a> <br/>
     <a href="../preps/23/"><b>Prep Problem 23</b></a> <br/>
+    <a href="./slides/27-files-graphics.pdf"><b>Slides</b></a> <br/>
+    <a href="./slides/29-string-debugging.pdf"><b>Slides</b></a> <br/>
     <a href="./slides/26-files-graphics-AP-before.pdf"><b>2pm Slides</b></a> <br/>
   </td>
   <td class="topic-general">
@@ -346,9 +348,9 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
   <td>
     <a href="https://www.youtube.com/watch?v=RQUCqRypwAM">Loading Scores</a> <br/>
     <a href="https://www.youtube.com/watch?v=13Rt7-EA6Ng">Saving Scores</a> <br/> <br/>
-    <a href="./slides/26-score_keeper-save-load.pdf"><b>Score Keeper Slides</b></a> <br/>
-    <a href="https://www.youtube.com/watch?v=21eG_xpqbH8">Constants and Swapping</a> <br/> <br/>
-    <a href="./slides/28-constants-swapping.pdf"><b>Constants + Swapping Slides</b></a> <br/>
+    <a href="./slides/26-score_keeper-save-load.pdf"><b>Slides</b></a> <br/> <br/>
+    <a href="https://www.youtube.com/watch?v=21eG_xpqbH8">Constants and Swapping</a> <br/>
+    <a href="./slides/28-constants-swapping.pdf"><b>Slides</b></a> <br/>
   </td>
 </tr>
 
