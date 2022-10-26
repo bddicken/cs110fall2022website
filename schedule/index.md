@@ -334,6 +334,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Prep:</b> SOWP 8.3 <br/>
     <a href="../preps/22/"><b>Prep Problem 22</b></a> <br/>
     <a href="../preps/23/"><b>Prep Problem 23</b></a> <br/>
+    <a href="./slides/26-files-graphics-AP-before.pdf"><b>2pm Slides</b></a> <br/>
   </td>
   <td class="topic-general">
     10/28/2022 <br/>
