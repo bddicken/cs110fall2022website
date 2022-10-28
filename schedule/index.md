@@ -344,6 +344,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Prep:</b> SOWP 9.1 <br/>
     <a href="../preps/24/"><b>Prep Problem 24</b></a> <br/>
     <a href="../preps/25/"><b>Prep Problem 25</b></a> <br/>
+    <a href="./slides/27-list-string-methods-AP-before.pdf"><b>2pm Slides</b></a> <br/>
   </td>
   <td>
     <a href="https://www.youtube.com/watch?v=RQUCqRypwAM">Loading Scores</a> <br/>
@@ -351,6 +352,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <a href="./slides/26-score_keeper-save-load.pdf"><b>Slides</b></a> <br/> <br/>
     <a href="https://www.youtube.com/watch?v=21eG_xpqbH8">Constants and Swapping</a> <br/>
     <a href="./slides/28-constants-swapping.pdf"><b>Slides</b></a> <br/>
+
   </td>
 </tr>
 
