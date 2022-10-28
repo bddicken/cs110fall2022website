@@ -344,6 +344,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Prep:</b> SOWP 9.1 <br/>
     <a href="../preps/24/"><b>Prep Problem 24</b></a> <br/>
     <a href="../preps/25/"><b>Prep Problem 25</b></a> <br/>
+    <a href="./slides//29-string-debugging.pdf"><b>1pm Slides</b></a> <br/>
     <a href="./slides/27-list-string-methods-AP-before.pdf"><b>2pm Slides</b></a> <br/>
   </td>
   <td>
