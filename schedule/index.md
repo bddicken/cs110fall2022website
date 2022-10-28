@@ -336,7 +336,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <a href="../preps/23/"><b>Prep Problem 23</b></a> <br/>
     <a href="./slides/27-files-graphics.pdf"><b>Slides</b></a> <br/>
     <a href="./slides/29-string-debugging.pdf"><b>Slides</b></a> <br/>
-    <a href="./slides/26-files-graphics-AP-before.pdf"><b>2pm Slides</b></a> <br/>
+    <a href="./slides/26-files-graphics-AP.pdf"><b>2pm Slides</b></a> <br/>
   </td>
   <td class="topic-general">
     10/28/2022 <br/>
