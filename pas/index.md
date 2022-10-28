@@ -7,6 +7,8 @@ title: CSc 110 PAs
 
 <br/>
 
+## PA 9: [Benford's Law](./benfords_law/index.html)
+
 ## PA 8 [Encrypter / Decrypter](./encrypter_decrypter/index.html)
 
 ## PA 7 [1D Chess](./1d_chess/index.html)
