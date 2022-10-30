@@ -386,11 +386,13 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     11/7/2022 <br/>
     <b>Topic:</b> Objects, References, Mutability, Immutability <br/>
     <b>Prep:</b> <a href="https://runestone.academy/runestone/books/published/thinkcspy/Lists/ObjectsandReferences.html">ThinkCSPy 10.10 and 10.11</a> <br/>
+    <a href="../preps/29/"><b>Prep Problem 29</b></a> <br/>
   </td>
   <td class="topic-general">
     11/9/2022 <br/>
     <b>Topic:</b> Multidimentional Data Structures <br/>
     <b>Prep:</b> SOWP 7.6-7.7 <br/>
+    <a href="../preps/30/"><b>Prep Problem 30</b></a> <br/>
   </td>
   <td class="topic-general">
     11/11/2022 <br/>
@@ -398,6 +400,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Prep:</b> SOWP 7.8-7.9 <br/>
     <a href="./res/plot.py">plot.py</a> <br/>
     <a href="./res/stocks.csv">stocks.csv</a> <br/>
+    <a href="../preps/31/"><b>Prep Problem 31</b></a> <br/>
   </td>
   <td>
     <b>Topic:</b> TBA
