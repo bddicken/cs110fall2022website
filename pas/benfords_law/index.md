@@ -26,12 +26,16 @@ You should organize the code into several functions: A main, a function for load
 ## The Input File
 
 Your program should ask the user for the name of an input file, which your program should expect to be formatted as CSV.
+It should also ask the user for the name of an mode.
+This can be two options: either `text` or `gui` (The `gui` option for extra credit).
 As a reminder, a CSV file is one that is organized into rows and columns,a  commas are typically used as the character that separates each entry in a row.
 Shown below is an example of the program prompting the user for a file name, then the user enters a file name (`places.csv`), and then the program prints out the resulting plot.
 
 ```
 Data file name:
 places.csv
+Mode:
+text
 
 1 | ###############################
 2 | ##############
@@ -185,6 +189,8 @@ If you download this file and run it with your code, you should get:
 ```
 Data file name:
 populations.csv
+Mode:
+text
 
 1 | ##################################
 2 | ###############
@@ -209,6 +215,8 @@ If you run the code with this data, you should get:
 ```
 Data file name:
 stocks.csv
+Mode:
+text
 
 1 | ##############################
 2 | #########################
@@ -234,6 +242,8 @@ When the code is run with these numbers, you should get:
 ```
 Data file name:
 random_numbers.csv
+Mode:
+text
 
 1 | ##########
 2 | ###########
