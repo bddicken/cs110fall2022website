@@ -378,7 +378,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
   </td>
   <td>
     <b>Topic:</b> Files and Dictionaries
-    <a href="https://youtu.be/Ekrr0xqXUA4">Opening a text files and counting words with a dictionary</a> <br/>
+    <a href="https://youtu.be/Ekrr0xqXUA4">Opening a text file and counting words with a dictionary</a> <br/>
     <a href="https://youtu.be/7AS4hx1CC4U">Retrieving word count from dictionary</a> <br/>
     <a href="../files/stranger_things.txt"><b>Text File</b></a> <br/>
   </td>
