@@ -394,13 +394,9 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Prep:</b> SOWP 7.6-7.7 <br/>
     <a href="../preps/30/"><b>Prep Problem 30</b></a> <br/>
   </td>
-  <td class="topic-general">
+  <td class="">
     11/11/2022 <br/>
-    <b>Topic:</b> Tuples, Multidimentional Data Structures <br/>
-    <b>Prep:</b> SOWP 7.8-7.9 <br/>
-    <a href="./res/plot.py">plot.py</a> <br/>
-    <a href="./res/stocks.csv">stocks.csv</a> <br/>
-    <a href="../preps/31/"><b>Prep Problem 31</b></a> <br/>
+    VETERANS DAY <br/>
   </td>
   <td>
     <b>Topic:</b> TBA
@@ -410,8 +406,11 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
 <tr>
   <td class="topic-general">
     11/14/2022 <br/>
-    <b>Topic:</b> Multidimentional Data Structures <br/>
-    <b>Prep:</b> None <br/>
+    <b>Topic:</b> Tuples, Multidimentional Data Structures <br/>
+    <b>Prep:</b> SOWP 7.8-7.9 <br/>
+    <a href="./res/plot.py">plot.py</a> <br/>
+    <a href="./res/stocks.csv">stocks.csv</a> <br/>
+    <a href="../preps/31/"><b>Prep Problem 31</b></a> <br/>
   
   </td>
   <td class="exam">
@@ -430,14 +429,14 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
 <tr>
   <td class="topic-graphics">
     11/21/2022 <br/>
-    <b>Topic:</b> PPM Images <br/>
+    <b>Topic:</b> Multidimentional Data Structures <br/>
     <b>Prep:</b> None <br/>
    <br />
   </td>
   <td class="topic-graphics">
     11/23/2022 <br/>
     <b>Topic:</b> PPM Images <br/>
-    <b>Prep:</b> Slides from last class / video <br/>
+    <b>Prep:</b> None <br/>
    <br />
   </td>
   <td class="">
@@ -452,25 +451,24 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
 <tr>
   <td class="topic-general">
     11/28/2022 <br/>
-    <b>Topic:</b> Searching <br/>
-    <b>Prep:</b> <a href="https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheSequentialSearch.html">Sequential Search</a> and
-                 <a href="https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheBinarySearch.html">Binary Search</a> <br/>
+    <b>Topic:</b> PPM Images <br/>
+    <b>Prep:</b> Slides from last class / video <br/>
    <br />
   </td>
   <td class="topic-general">
     11/30/2022 <br/>
+    <b>Topic:</b> Searching <br/>
+    <b>Prep:</b> <a href="https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheSequentialSearch.html">Sequential Search</a> and
+                 <a href="https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheBinarySearch.html">Binary Search</a> <br/>
+
+  </td>
+  <td class="topic-general">
+    12/3/2022 <br/>
     <b>Topic:</b> Searching / Sorting <br/>
     <b>Prep:</b> <a href="https://runestone.academy/runestone/books/published/pythonds/SortSearch/sorting.html">Sort Overview</a> and 
                  <a href="https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheBubbleSort.html">Bubble Sort</a> <br/>
     <b><a href="../materials/res/search_timing.py">search_timing.py</a></b> <br/>
     <b><a href="../materials/res/sort_timing.py">sort_timing.py</a></b> <br/>
-
-  </td>
-  <td class="topic-general">
-    12/3/2022 <br/>
-    <b>Topic:</b> Sorting <br/>
-    <b>Prep:</b> <a href="https://runestone.academy/runestone/books/published/pythonds/SortSearch/sorting.html">Sort Overview</a> and 
-                 <a href="https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheBubbleSort.html">Bubble Sort</a> <br/>
      <br />
   </td>
   <td>
@@ -481,8 +479,9 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
 <tr>
   <td class="topic-general">
     12/5/2022 <br/>
-    <b>Topic:</b> Error handling, try/except <br/>
-    <b>Prep:</b> SOWP 6.4 <br/>
+    <b>Topic:</b> Sorting <br/>
+    <b>Prep:</b> <a href="https://runestone.academy/runestone/books/published/pythonds/SortSearch/sorting.html">Sort Overview</a> and 
+                 <a href="https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheBubbleSort.html">Bubble Sort</a> <br/>
      <br />
   </td>
   <td class="topic-general">
