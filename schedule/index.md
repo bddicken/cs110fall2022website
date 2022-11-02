@@ -370,6 +370,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Prep:</b> None <br/>
     <a href="../preps/26/"><b>Prep Problem 26</b></a> <br/>
     <a href="../preps/27/"><b>Prep Problem 27</b></a> <br/>
+    <a href="./slides/29-dictionaries-AP-before.pdf"><b>Slides</b></a> <br/>
   </td>
   <td class="topic-general">
     11/4/2022 <br/>
