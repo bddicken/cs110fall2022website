@@ -11,7 +11,7 @@ The keys will ne the name of a food item (such as `'granola'` or `'steak'`), and
 The function should iterate through all of the foods and sum up the total calories, and then return that number.
 For example:
 
-* `count_calories({'chocolate':200, 'milk':120, 'steak':280})` should return 570.
+* `count_calories({'chocolate':200, 'milk':120, 'steak':280})` should return 600.
 * `count_calories({'carrot':5, 'apple':50})` should return 55.
 
 Make sure to include only the one function in your file.
