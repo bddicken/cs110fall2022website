@@ -39,15 +39,15 @@ Ben's will typically meet in GS 850.
 |---|---|---|---|---|---|
 | 8:00am - 9:00am   | | Ali E. | | | | | |
 | 9:00am - 10:00am  | <mark>Anthony</mark> | Ali E. / <mark>Jeziel </mark> | <mark>Anthony</mark> | Miro | <mark>Anthony</mark> | <mark>Mustafa </mark> | <mark>Ali E.</mark> |
-| 10:00am - 11:00am | <mark>Honor</mark> / <mark>Ali K.</mark> / Miro | Farabi / <mark style="background-color:lightblue">Ben</mark> / Jaygee / <mark>Jeziel </mark> / <mark style="background-color:lightgreen">Adriana</mark> | <mark>Ali K.</mark> | <mark>Farabi</mark> / Miro / <mark style="background-color:lightblue">Ben</mark> | <mark>Ali K.</mark> / <mark>Kari</mark> / Miro | <mark>Mustafa </mark> | <mark>Kari</mark> / <mark>Ali E.</mark> |
+| 10:00am - 11:00am | <mark>Honor</mark> / <mark>Ali K.</mark> | Farabi / <mark style="background-color:lightblue">Ben</mark> / Jaygee / <mark>Jeziel </mark> / <mark style="background-color:lightgreen">Adriana</mark> | <mark>Ali K.</mark> / Miro | <mark>Farabi</mark> / Miro / <mark style="background-color:lightblue">Ben</mark> | <mark>Ali K.</mark> / <mark>Kari</mark> / Miro | <mark>Mustafa </mark> | <mark>Kari</mark> / <mark>Ali E.</mark> |
 | 11:00am - 12:00pm | <mark>Honor</mark> / <mark>Ali K.</mark> / <mark style="background-color:lightblue">Ben</mark> | Aman / Farabi / Jaygee  / Honor / <mark>Jeziel </mark> / Aidan | Zach / Cezar / <mark>Ali K.</mark>  / Alankrit / Miro / <mark style="background-color:lightblue">Ben</mark> | Aman / <mark>Farabi</mark> / Miro / <mark>Adan</mark> | <mark>Ali K.</mark> / Miro | <mark>Alankrit</mark> | <mark>Kari</mark> |
-| 12:00pm - 1:00pm  |  | Aman | Zach / Farabi / Cezar / Alankrit / Miro | Aman / Miro | Aidan / Miro | <mark>Alankrit</mark> | | 
+| 12:00pm - 1:00pm  |  | Aman | Zach / Farabi / Cezar / Alankrit / Miro | Aman / Miro | Aidan / Miro / Adan | <mark>Alankrit</mark> | | 
 | 1:00pm - 2:00pm   | CLASS | Anthony / Steven | CLASS | | CLASS | | |
-| 2:00pm - 3:00pm   | CLASS | Miro / Steven | CLASS | Zach | CLASS | | |
+| 2:00pm - 3:00pm   | CLASS | Miro / Steven / Adan | CLASS | Zach | CLASS | | |
 | 3:00pm - 4:00pm   | Victoria / Khojiakbar  / Nuzhat | Aidan / Miro / Steven | Brooke /  Sam / Khojiakbar | Aidan / Zach / Miro | Victoria / Khojiakbar  | | |
 | 4:00pm - 5:00pm   | Nuzhat / <mark style="background-color:lightgreen">Adriana</mark> / Victoria / <mark>Alankrit</mark> | | Brooke / Sam | Zach / Rachel / Miro | Rachel / Khojiakbar  | | |
 | 5:00pm - 6:00pm   |  <mark>Alankrit</mark> | Kari / Jake / Rachel | <mark style="background-color:lightgreen">Adriana</mark> | Miro / <mark>Alex</mark> / Jake | | | |
-| 6:00pm - 7:00pm   | <mark>Adan</mark> | Kari / Jake | <mark>Adan</mark> | <mark>Alex</mark> / Jake | | | |
+| 6:00pm - 7:00pm   |  | Kari / Jake |  | <mark>Alex</mark> / Jake | | | |
 
 NOTE: This office hour schedule is subject to some change.
 Occasionally a TA might have to cancel or change one or more office hour(s).
