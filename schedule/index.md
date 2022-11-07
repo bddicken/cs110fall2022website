@@ -394,6 +394,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <a href="../preps/29/"><b>Prep Problem 29</b></a> <br/>
     <a href="../files/stranger_things.txt"><b>Text File</b></a> <br/>
     <a href="./res/stopwords.txt"><b>Stop Words File</b></a> <br/>
+    <a href="./slides/30-sets-AP-before.pdf"><b>Slides</b></a> <br/>
   </td>
   <td class="topic-general">
     11/9/2022 <br/>
