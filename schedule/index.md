@@ -391,6 +391,9 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     11/7/2022 <br/>
     <b>Topic:</b> Objects, References, Mutability, Immutability <br/>
     <b>Prep:</b> <a href="https://runestone.academy/runestone/books/published/thinkcspy/Lists/ObjectsandReferences.html">ThinkCSPy 10.10 and 10.11</a> <br/>
+    <a href="../files/stranger_things.txt"><b>Text File</b></a> <br/>
+    <a href="./res/stopwords.txt"><b>Stop Words File</b></a> <br/>
+    
     <a href="../preps/29/"><b>Prep Problem 29</b></a> <br/>
   </td>
   <td class="topic-general">
