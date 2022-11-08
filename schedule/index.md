@@ -389,8 +389,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
 <tr>
   <td class="topic-general">
     11/7/2022 <br/>
-    <b>Topic:</b> Objects, References, Mutability, Immutability <br/>
-    <b>Prep:</b> <a href="https://runestone.academy/runestone/books/published/thinkcspy/Lists/ObjectsandReferences.html">ThinkCSPy 10.10 and 10.11</a> <br/>  
+    <b>Topic:</b> Sets and Dictionaries <br/>
     <a href="../preps/29/"><b>Prep Problem 29</b></a> <br/>
     <a href="../files/stranger_things.txt"><b>Text File</b></a> <br/>
     <a href="./res/stopwords.txt"><b>Stop Words File</b></a> <br/>
@@ -398,8 +397,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
   </td>
   <td class="topic-general">
     11/9/2022 <br/>
-    <b>Topic:</b> Multidimentional Data Structures <br/>
-    <b>Prep:</b> SOWP 7.6-7.7 <br/>
+    <b>Topic:</b> Sets <br/>
     <a href="../preps/30/"><b>Prep Problem 30</b></a> <br/>
   </td>
   <td class="">
@@ -414,8 +412,8 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
 <tr>
   <td class="topic-general">
     11/14/2022 <br/>
-    <b>Topic:</b> Tuples, Multidimentional Data Structures <br/>
-    <b>Prep:</b> SOWP 7.8-7.9 <br/>
+    <b>Topic:</b> Multidimentional Data Structures <br/>
+    <b>Prep:</b> SOWP 7.6-7.7 <br/>
     <a href="./res/plot.py">plot.py</a> <br/>
     <a href="./res/stocks.csv">stocks.csv</a> <br/>
     <a href="../preps/31/"><b>Prep Problem 31</b></a> <br/>
@@ -430,20 +428,22 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     Group Exam 3 <br/>
   </td>
   <td>
-    <b>Topic:</b> TBA
+    <b>Topic:</b> Objects, References, Mutability, Immutability <br/>
+    <b>Prep:</b> <a href="https://runestone.academy/runestone/books/published/thinkcspy/Lists/ObjectsandReferences.html">ThinkCSPy 10.10 and 10.11</a> <br/>  
+    VIDEO TBA <br/>
   </td>
 </tr>
 
 <tr>
   <td class="topic-graphics">
     11/21/2022 <br/>
-    <b>Topic:</b> Multidimentional Data Structures <br/>
-    <b>Prep:</b> None <br/>
+    <b>Topic:</b> Tuples, Multidimentional Data Structures <br/>
+    <b>Prep:</b> SOWP 7.8-7.9 <br/>
    <br />
   </td>
   <td class="topic-graphics">
     11/23/2022 <br/>
-    <b>Topic:</b> PPM Images <br/>
+    <b>Topic:</b> Multidimentional Data Structures <br/>
     <b>Prep:</b> None <br/>
    <br />
   </td>
@@ -460,7 +460,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
   <td class="topic-general">
     11/28/2022 <br/>
     <b>Topic:</b> PPM Images <br/>
-    <b>Prep:</b> Slides from last class / video <br/>
+    <b>Prep:</b> None <br/>
    <br />
   </td>
   <td class="topic-general">
