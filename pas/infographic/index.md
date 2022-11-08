@@ -147,7 +147,7 @@ If you are not completing the extra credit, you only need to include the first t
 
 ## Submission
 
-Submit this code to Gradescope by Tuesday, November 15th by 7pm.
+Submit this code to Gradescope by Tuesday, November 22nd by 7pm.
 
 <br/>
 
