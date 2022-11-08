@@ -7,7 +7,7 @@ title: CSc 110 PAs
 
 <br/>
 
-## PA 10: [Infographic](./infographic/index.html) (Due Nov 15)
+## PA 10: [Infographic](./infographic/index.html) (Due Nov 22)
  
 ## PA 9: [Benford's Law](./benfords_law/index.html) (Due Nov 8)
 
