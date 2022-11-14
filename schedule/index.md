@@ -393,12 +393,13 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <a href="../preps/29/"><b>Prep Problem 29</b></a> <br/>
     <a href="../files/stranger_things.txt"><b>Text File</b></a> <br/>
     <a href="./res/stopwords.txt"><b>Stop Words File</b></a> <br/>
-    <a href="./slides/30-sets-AP-before.pdf"><b>Slides</b></a> <br/>
+    <a href="./slides/30-sets-AP.pdf"><b>Slides</b></a> <br/>
   </td>
   <td class="topic-general">
     11/9/2022 <br/>
     <b>Topic:</b> Sets <br/>
     <a href="../preps/30/"><b>Prep Problem 30</b></a> <br/>
+    <a href="./slides/30-sets-AP.pdf"><b>Slides 2pm</b></a> <br/>
   </td>
   <td class="">
     11/11/2022 <br/>
@@ -417,6 +418,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <a href="./res/plot.py">plot.py</a> <br/>
     <a href="./res/stocks.csv">stocks.csv</a> <br/>
     <a href="../preps/31/"><b>Prep Problem 31</b></a> <br/>
+    <a href="./slides/31-objects-references-AP-before.pdf"><b>Slides 2pm</b></a> <br/>
   
   </td>
   <td class="exam">
