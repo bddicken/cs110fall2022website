@@ -399,6 +399,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     11/9/2022 <br/>
     <b>Topic:</b> Sets <br/>
     <a href="../preps/30/"><b>Prep Problem 30</b></a> <br/>
+    <a href="./slides/32-sets.pdf"><b>Slides 1pm</b></a> <br/>
     <a href="./slides/30-sets-AP.pdf"><b>Slides 2pm</b></a> <br/>
   </td>
   <td class="">
@@ -418,6 +419,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <a href="./res/plot.py">plot.py</a> <br/>
     <a href="./res/stocks.csv">stocks.csv</a> <br/>
     <a href="../preps/31/"><b>Prep Problem 31</b></a> <br/>
+    <a href="./slides/33-objects-references.pdf"><b>Slides 1pm</b></a> <br/>
     <a href="./slides/31-objects-references-AP-before.pdf"><b>Slides 2pm</b></a> <br/>
   
   </td>
