@@ -449,6 +449,8 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     11/23/2022 <br/>
     <b>Topic:</b> Multidimentional Data Structures <br/>
     <b>Prep:</b> None <br/>
+    <a href="../preps/32/"><b>Prep Problem 32</b></a> <br/>
+    <a href="../preps/33/"><b>Prep Problem 33</b></a> <br/>
    <br />
   </td>
   <td class="">
@@ -465,6 +467,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     11/28/2022 <br/>
     <b>Topic:</b> PPM Images <br/>
     <b>Prep:</b> None <br/>
+    <a href="../preps/34/"><b>Prep Problem 34</b></a> <br/>
    <br />
   </td>
   <td class="topic-general">
@@ -472,6 +475,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Topic:</b> Searching <br/>
     <b>Prep:</b> <a href="https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheSequentialSearch.html">Sequential Search</a> and
                  <a href="https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheBinarySearch.html">Binary Search</a> <br/>
+    <a href="../preps/35/"><b>Prep Problem 35</b></a> <br/>
 
   </td>
   <td class="topic-general">
@@ -481,6 +485,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
                  <a href="https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheBubbleSort.html">Bubble Sort</a> <br/>
     <b><a href="../materials/res/search_timing.py">search_timing.py</a></b> <br/>
     <b><a href="../materials/res/sort_timing.py">sort_timing.py</a></b> <br/>
+    <a href="../preps/36/"><b>Prep Problem 36</b></a> <br/>
      <br />
   </td>
   <td>
@@ -494,12 +499,15 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Topic:</b> Sorting <br/>
     <b>Prep:</b> <a href="https://runestone.academy/runestone/books/published/pythonds/SortSearch/sorting.html">Sort Overview</a> and 
                  <a href="https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheBubbleSort.html">Bubble Sort</a> <br/>
+    <a href="../preps/37/"><b>Prep Problem 37</b></a> <br/>
+    <a href="../preps/38/"><b>Prep Problem 38</b></a> <br/>
      <br />
   </td>
   <td class="topic-general">
     12/7/2022 <br/>
     <b>Topic:</b> Course wrap-up <br/>
     <b>Prep:</b> None <br/>
+    <a href="../preps/35/"><b>Prep Problem 39</b></a> <br/>
      <br />
   </td>
   <td>
