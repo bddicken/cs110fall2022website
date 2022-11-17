@@ -479,7 +479,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
 
   </td>
   <td class="topic-general">
-    12/3/2022 <br/>
+    12/2/2022 <br/>
     <b>Topic:</b> Searching / Sorting <br/>
     <b>Prep:</b> <a href="https://runestone.academy/runestone/books/published/pythonds/SortSearch/sorting.html">Sort Overview</a> and 
                  <a href="https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheBubbleSort.html">Bubble Sort</a> <br/>
