@@ -507,7 +507,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     12/7/2022 <br/>
     <b>Topic:</b> Course wrap-up <br/>
     <b>Prep:</b> None <br/>
-    <a href="../preps/35/"><b>Prep Problem 39</b></a> <br/>
+    <a href="../preps/39/"><b>Prep Problem 39</b></a> <br/>
      <br />
   </td>
   <td>
