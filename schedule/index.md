@@ -443,6 +443,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     11/21/2022 <br/>
     <b>Topic:</b> Tuples, Multidimentional Data Structures <br/>
     <b>Prep:</b> SOWP 7.8-7.9 <br/>
+    <a href="./slides/32-2d-list-AP.pdf"><b>Slides 2pm</b></a> <br/>
    <br />
   </td>
   <td class="topic-graphics">
