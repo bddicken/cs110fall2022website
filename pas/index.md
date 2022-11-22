@@ -7,11 +7,13 @@ title: CSc 110 PAs
 
 <br/>
 
-## PA 10: [Infographic](./infographic/index.html) (Due Nov 22)
- 
-## PA 9: [Benford's Law](./benfords_law/index.html) (Due Nov 8)
+## PA 11: [Greenscreen](./greenscreen/index.html) (Due Dec 2)
 
-## PA 8 [Encrypter / Decrypter](./encrypter_decrypter/index.html) (Due Nov 1)
+## PA 10: [Infographic](./infographic/index.html)
+ 
+## PA 9: [Benford's Law](./benfords_law/index.html) 
+
+## PA 8 [Encrypter / Decrypter](./encrypter_decrypter/index.html)
 
 ## PA 7 [1D Chess](./1d_chess/index.html)
 
