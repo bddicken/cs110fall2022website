@@ -469,6 +469,8 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Topic:</b> PPM Images <br/>
     <b>Prep:</b> None <br/>
     <a href="../preps/34/"><b>Prep Problem 34</b></a> <br/>
+    <a href="./slides/35-multidimensional-list-PPM.pdf"><b>Slides 1pm</b></a> <br/>
+    <a href="./slides/36-PPM-graphics.pdf"><b>Slides 1pm</b></a> <br/>
    <br />
   </td>
   <td class="topic-general">
