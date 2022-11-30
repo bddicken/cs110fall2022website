@@ -471,6 +471,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <a href="../preps/34/"><b>Prep Problem 34</b></a> <br/>
     <a href="./slides/35-multidimensional-list-PPM.pdf"><b>Slides 1pm</b></a> <br/>
     <a href="./slides/36-PPM-graphics.pdf"><b>Slides 1pm</b></a> <br/>
+    <a href="./slides/33-multidimensional-list-PPM-AP.pdf"><b>Slides 2pm</b></a> <br/>
    <br />
   </td>
   <td class="topic-general">
@@ -479,6 +480,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Prep:</b> <a href="https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheSequentialSearch.html">Sequential Search</a> and
                  <a href="https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheBinarySearch.html">Binary Search</a> <br/>
     <a href="../preps/35/"><b>Prep Problem 35</b></a> <br/>
+    <a href="./slides/34-sort-AP.pdf"><b>Slides 2pm</b></a> <br/>
 
   </td>
   <td class="topic-general">
