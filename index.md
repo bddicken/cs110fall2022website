@@ -31,6 +31,7 @@ For more information about the course and policies, see the [course syllabus](./
 
 ## Study Guides
 
+* [Final Exam Study Guide](./files/finalexamstudyguide.pdf)
 * [Exam 3 Study Guide](./files/exam3studyguide.pdf)
 * [Exam 2 Study Guide](./files/exam2studyguide.pdf)
 * [Exam 1 Study Guide](./files/exam1studyguide.pdf)
