@@ -506,6 +506,8 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
                  <a href="https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheBubbleSort.html">Bubble Sort</a> <br/>
     <a href="../preps/37/"><b>Prep Problem 37</b></a> <br/>
     <a href="../preps/38/"><b>Prep Problem 38</b></a> <br/>
+    <a href="./slides/35-sort-II-AP.pdf"><b>Slides 2pm</b></a> <br/>
+    
      <br />
   </td>
   <td class="topic-general">
