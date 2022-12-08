@@ -514,6 +514,7 @@ The <b>Prep</b> for each day indicates the work you need to have completed <b>BE
     <b>Topic:</b> Course wrap-up <br/>
     <b>Prep:</b> None <br/>
     <a href="../preps/39/"><b>Prep Problem 39</b></a> <br/>
+    <a href="./slides/40-wrap-up.pdf"><b>Slides 1pm</b></a> <br/>
     <a href="./slides/36-final-exam-review-AP.pdf"><b>Slides 2pm</b></a> <br/>
     
   </td>
